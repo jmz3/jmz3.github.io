@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiaming Zhang</title>
+    <title>Jeremy</title>
     <link>http://jeremyzz830.github.io/</link>
-    <description>Recent content on Jiaming Zhang</description>
+    <description>Recent content on Jeremy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jeremyzz830.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://jeremyzz830.github.io/cv/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeremyzz830.github.io/cv/</guid>
-      <description>CV Link to heading /files/cv.pdf &amp;ldquo;Download pdf&amp;rdquo;</description>
-    </item>
-    
     <item>
       <title>Test Post</title>
       <link>http://jeremyzz830.github.io/posts/test/</link>
@@ -56,6 +47,15 @@ Step 1 Link to heading </description>
     </item>
     
     <item>
+      <title>cv</title>
+      <link>http://jeremyzz830.github.io/cv/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeremyzz830.github.io/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://jeremyzz830.github.io/about/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
@@ -71,8 +71,8 @@ Ongoing Project Link to heading Currently, I&amp;rsquo;m working as a research a
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://jeremyzz830.github.io/contact/</guid>
-      <description>📧 jeremyz.daily@gmail.com
-📫 The Carlyle Apartment Homes, APT 10R, 500 W University PKWY, 21210, Baltimore, MD</description>
+      <description>✉️ jeremyz.daily@gmail.com
+📫 The Carlyle Apartment Homes APT 10R 500 W University PKWY 21210, Baltimore, MD USA</description>
     </item>
     
     <item>

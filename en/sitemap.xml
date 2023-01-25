@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jeremyzz830.github.io/cv/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://jeremyzz830.github.io/posts/test/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,6 +26,9 @@
                 hreflang="en"
                 href="http://jeremyzz830.github.io/categories/"
                 />
+  </url><url>
+    <loc>http://jeremyzz830.github.io/cv/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jeremyzz830.github.io/categories/guide/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
