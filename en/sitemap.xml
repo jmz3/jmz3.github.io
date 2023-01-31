@@ -14,6 +14,9 @@
     <loc>http://jeremyzz830.github.io/posts/hugo-website/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://jeremyzz830.github.io/publications/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://jeremyzz830.github.io/categories/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -101,9 +104,6 @@
     <loc>http://jeremyzz830.github.io/posts/home/</loc>
   </url><url>
     <loc>http://jeremyzz830.github.io/posts/multilingual-mode/</loc>
-  </url><url>
-    <loc>http://jeremyzz830.github.io/publications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://jeremyzz830.github.io/authors/</loc>
     <xhtml:link

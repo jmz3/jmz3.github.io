@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeremy</title>
+    <title>Jeremy&#39;s Homepage</title>
     <link>http://jeremyzz830.github.io/</link>
-    <description>Recent content on Jeremy</description>
+    <description>Recent content on Jeremy&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jeremyzz830.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -44,6 +44,15 @@ Add the repository into your Hugo Project repository as a submodule, git submodu
       <guid>http://jeremyzz830.github.io/posts/hugo-website/</guid>
       <description> PIPELINE Link to heading This is a concise step by step rough-guide on how to build this website from scratch.
 Step 1 Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://jeremyzz830.github.io/publications/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeremyzz830.github.io/publications/</guid>
+      <description> 2D SLAM with Visual Servoing Target Tracking System for Nonholonomic Mobile Robot, Under Review, Submitted in Sept., 2022 An Automatic Arranging Device for PTC Ceramic Heating Chips, The National Practical Patent, No.CN201920955308.X, June 2019 </description>
     </item>
     
     <item>
@@ -92,15 +101,6 @@ Ongoing Project Link to heading Currently, I&amp;rsquo;m working as a research a
       <guid>http://jeremyzz830.github.io/posts/multilingual-mode/</guid>
       <description>Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:
 Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungarian Italian Japanese Malay Dutch Polish Brazilian Portuguese Romanian Russian Swedish Slovak Turkish Simplified Chinese Taiwan Chinese Configure languages Link to heading Go to this Hugo documentation page to configure one or multiple languages for your website.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jeremyzz830.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeremyzz830.github.io/publications/</guid>
-      <description> To be filled up Link to heading </description>
     </item>
     
   </channel>
