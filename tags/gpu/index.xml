@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU on Jeremy&#39;s Homepage</title>
+    <link>http://jeremyzz830.github.io/tags/gpu/</link>
+    <description>Recent content in GPU on Jeremy&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jeremyzz830.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Nvidia Driver on Ubuntu 20.04</title>
+      <link>http://jeremyzz830.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeremyzz830.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
+      <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H OS: Ubuntu 20.04 LTS Dual Boot Kernel version: Linux 5.13.0-39-generic GPU model: GTX 1660 Ti 6GB
+Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers
+then click apply changes
+wait for it to download and configure the drivers.
+After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
+    </item>
+    
+  </channel>
+</rss>

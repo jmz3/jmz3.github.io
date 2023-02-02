@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://jeremyzz830.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://jeremyzz830.github.io/posts/test/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,11 +17,8 @@
     <loc>http://jeremyzz830.github.io/posts/hugo-website/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jeremyzz830.github.io/publications/</loc>
-    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://jeremyzz830.github.io/categories/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -30,17 +30,14 @@
                 href="http://jeremyzz830.github.io/categories/"
                 />
   </url><url>
-    <loc>http://jeremyzz830.github.io/cv/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <loc>http://jeremyzz830.github.io/tags/gpu/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jeremyzz830.github.io/categories/guide/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://jeremyzz830.github.io/tags/hugo/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jeremyzz830.github.io/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -52,14 +49,11 @@
                 href="http://jeremyzz830.github.io/"
                 />
   </url><url>
-    <loc>http://jeremyzz830.github.io/tags/markdown/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://jeremyzz830.github.io/tags/syntax/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <loc>http://jeremyzz830.github.io/tags/nvidia/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jeremyzz830.github.io/tags/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -72,6 +66,24 @@
                 />
   </url><url>
     <loc>http://jeremyzz830.github.io/categories/technical/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremyzz830.github.io/tags/ubuntu/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremyzz830.github.io/publications/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremyzz830.github.io/cv/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremyzz830.github.io/tags/hugo/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremyzz830.github.io/tags/markdown/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremyzz830.github.io/tags/syntax/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jeremyzz830.github.io/about/</loc>
