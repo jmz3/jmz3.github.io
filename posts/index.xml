@@ -13,9 +13,11 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://jeremyzz830.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
-      <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H OS: Ubuntu 20.04 LTS Dual Boot Kernel version: Linux 5.13.0-39-generic GPU model: GTX 1660 Ti 6GB
-Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers
-then click apply changes
+      <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H
+OS: Ubuntu 20.04 LTS Dual Boot
+Kernel version: Linux 5.13.0-39-generic
+GPU model: GTX 1660 Ti 6GB
+Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes
 wait for it to download and configure the drivers.
 After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
     </item>
@@ -30,6 +32,15 @@ After that, a window will prompt out to tell you you need to set up a key for se
     </item>
     
     <item>
+      <title>Hugo code documentation</title>
+      <link>http://jeremyzz830.github.io/posts/home/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeremyzz830.github.io/posts/home/</guid>
+      <description> Welcome to the hugo-coder docs! Link to heading Basic Usage Link to heading Quick Start Configurations FAQ Extra Guides Link to heading Multilingual Mode Comment System Analytics Maintainers &amp;amp; Developers Link to heading Contributing </description>
+    </item>
+    
+    <item>
       <title>Configurations about Hugo-Coder Theme</title>
       <link>http://jeremyzz830.github.io/posts/configurations/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
@@ -37,6 +48,16 @@ After that, a window will prompt out to tell you you need to set up a key for se
       <guid>http://jeremyzz830.github.io/posts/configurations/</guid>
       <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:
 Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
+    </item>
+    
+    <item>
+      <title>Multilingual-Mode</title>
+      <link>http://jeremyzz830.github.io/posts/multilingual-mode/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeremyzz830.github.io/posts/multilingual-mode/</guid>
+      <description>Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:
+Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungarian Italian Japanese Malay Dutch Polish Brazilian Portuguese Romanian Russian Swedish Slovak Turkish Simplified Chinese Taiwan Chinese Configure languages Link to heading Go to this Hugo documentation page to configure one or multiple languages for your website.</description>
     </item>
     
     <item>
@@ -57,25 +78,6 @@ Add the repository into your Hugo Project repository as a submodule, git submodu
       <guid>http://jeremyzz830.github.io/posts/hugo-website/</guid>
       <description> PIPELINE Link to heading This is a concise step by step rough-guide on how to build this website from scratch.
 Step 1 Link to heading </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jeremyzz830.github.io/posts/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeremyzz830.github.io/posts/home/</guid>
-      <description> Welcome to the hugo-coder docs! Link to heading Basic Usage Link to heading Quick Start Configurations FAQ Extra Guides Link to heading Multilingual Mode Comment System Analytics Maintainers &amp;amp; Developers Link to heading Contributing </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jeremyzz830.github.io/posts/multilingual-mode/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeremyzz830.github.io/posts/multilingual-mode/</guid>
-      <description>Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:
-Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungarian Italian Japanese Malay Dutch Polish Brazilian Portuguese Romanian Russian Swedish Slovak Turkish Simplified Chinese Taiwan Chinese Configure languages Link to heading Go to this Hugo documentation page to configure one or multiple languages for your website.</description>
     </item>
     
   </channel>
