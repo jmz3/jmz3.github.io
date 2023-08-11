@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technical on Jiaming Zhang</title>
-    <link>http://jeremyzz830.github.io/categories/technical/</link>
+    <link>http://jmz3.github.io/categories/technical/</link>
     <description>Recent content in technical on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jeremyzz830.github.io/categories/technical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jmz3.github.io/categories/technical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create SSH Keys for Local Machine and Add it to Github</title>
-      <link>http://jeremyzz830.github.io/posts/create-ssh-keys-for-your-local-machine/</link>
+      <link>http://jmz3.github.io/posts/create-ssh-keys-for-your-local-machine/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremyzz830.github.io/posts/create-ssh-keys-for-your-local-machine/</guid>
+      <guid>http://jmz3.github.io/posts/create-ssh-keys-for-your-local-machine/</guid>
       <description>$ ssh-keygen -t ed25519 -C &amp;#34;your_email@example.com&amp;#34; </description>
     </item>
     
     <item>
       <title>Install Nvidia Driver on Ubuntu 20.04</title>
-      <link>http://jeremyzz830.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
+      <link>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremyzz830.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
+      <guid>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
       <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H
 OS: Ubuntu 20.04 LTS Dual Boot
 Kernel version: Linux 5.13.0-39-generic
@@ -33,39 +33,39 @@ After that, a window will prompt out to tell you you need to set up a key for se
     
     <item>
       <title>Test Post</title>
-      <link>http://jeremyzz830.github.io/posts/test/</link>
+      <link>http://jmz3.github.io/posts/test/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremyzz830.github.io/posts/test/</guid>
+      <guid>http://jmz3.github.io/posts/test/</guid>
       <description>The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.</description>
     </item>
     
     <item>
       <title>Configurations about Hugo-Coder Theme</title>
-      <link>http://jeremyzz830.github.io/posts/configurations/</link>
+      <link>http://jmz3.github.io/posts/configurations/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremyzz830.github.io/posts/configurations/</guid>
+      <guid>http://jmz3.github.io/posts/configurations/</guid>
       <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:
 Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
     </item>
     
     <item>
       <title>Quick Start for Hugo-Coder</title>
-      <link>http://jeremyzz830.github.io/posts/quick-start/</link>
+      <link>http://jmz3.github.io/posts/quick-start/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremyzz830.github.io/posts/quick-start/</guid>
+      <guid>http://jmz3.github.io/posts/quick-start/</guid>
       <description>Quick Start Link to heading To start using hugo-coder:
 Add the repository into your Hugo Project repository as a submodule, git submodule add https://github.com/luizdepra/hugo-coder.git themes/coder. Configure your config.toml. You can use this minimal configuration as a base. The config.toml inside the exampleSite from the exampleSite is also a good reference. Build your site with hugo serve and see the result at http://localhost:1313/. If you just want to test this theme, go to this page.</description>
     </item>
     
     <item>
       <title>How to build a website with Hugo and host it on GitHub Pages</title>
-      <link>http://jeremyzz830.github.io/posts/hugo-website/</link>
+      <link>http://jmz3.github.io/posts/hugo-website/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremyzz830.github.io/posts/hugo-website/</guid>
+      <guid>http://jmz3.github.io/posts/hugo-website/</guid>
       <description> PIPELINE Link to heading This is a concise step by step rough-guide on how to build this website from scratch.
 Step 1 Link to heading </description>
     </item>

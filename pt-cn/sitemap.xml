@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jeremyzz830.github.io/pt-cn/authors/</loc>
+    <loc>http://jmz3.github.io/pt-cn/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jeremyzz830.github.io/authors/"
+                href="http://jmz3.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jeremyzz830.github.io/pt-cn/authors/"
+                href="http://jmz3.github.io/pt-cn/authors/"
                 />
   </url><url>
-    <loc>http://jeremyzz830.github.io/pt-cn/categories/</loc>
+    <loc>http://jmz3.github.io/pt-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jeremyzz830.github.io/categories/"
+                href="http://jmz3.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jeremyzz830.github.io/pt-cn/categories/"
+                href="http://jmz3.github.io/pt-cn/categories/"
                 />
   </url><url>
-    <loc>http://jeremyzz830.github.io/pt-cn/series/</loc>
+    <loc>http://jmz3.github.io/pt-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jeremyzz830.github.io/series/"
+                href="http://jmz3.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jeremyzz830.github.io/pt-cn/series/"
+                href="http://jmz3.github.io/pt-cn/series/"
                 />
   </url><url>
-    <loc>http://jeremyzz830.github.io/pt-cn/tags/</loc>
+    <loc>http://jmz3.github.io/pt-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jeremyzz830.github.io/tags/"
+                href="http://jmz3.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jeremyzz830.github.io/pt-cn/tags/"
+                href="http://jmz3.github.io/pt-cn/tags/"
                 />
   </url><url>
-    <loc>http://jeremyzz830.github.io/pt-cn/</loc>
+    <loc>http://jmz3.github.io/pt-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jeremyzz830.github.io/"
+                href="http://jmz3.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jeremyzz830.github.io/pt-cn/"
+                href="http://jmz3.github.io/pt-cn/"
                 />
   </url>
 </urlset>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Jiaming Zhang</title>
-    <link>http://jeremyzz830.github.io/series/</link>
+    <link>http://jmz3.github.io/series/</link>
     <description>Recent content in Series on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://jeremyzz830.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://jmz3.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
