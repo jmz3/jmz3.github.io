@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>website on Jiaming Zhang</title>
+    <title>Website on Jiaming Zhang</title>
     <link>http://jmz3.github.io/tags/website/</link>
-    <description>Recent content in website on Jiaming Zhang</description>
+    <description>Recent content in Website on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jmz3.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configurations about Hugo-Coder Theme</title>
       <link>http://jmz3.github.io/posts/configurations/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/posts/configurations/</guid>
-      <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:
-Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
+      <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:&#xA;Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
     </item>
-    
     <item>
       <title>Quick Start for Hugo-Coder</title>
       <link>http://jmz3.github.io/posts/quick-start/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/posts/quick-start/</guid>
-      <description>Quick Start Link to heading To start using hugo-coder:
-Add the repository into your Hugo Project repository as a submodule, git submodule add https://github.com/luizdepra/hugo-coder.git themes/coder. Configure your config.toml. You can use this minimal configuration as a base. The config.toml inside the exampleSite from the exampleSite is also a good reference. Build your site with hugo serve and see the result at http://localhost:1313/. If you just want to test this theme, go to this page.</description>
+      <description>Quick Start Link to heading To start using hugo-coder:&#xA;Add the repository into your Hugo Project repository as a submodule, git submodule add https://github.com/luizdepra/hugo-coder.git themes/coder. Configure your config.toml. You can use this minimal configuration as a base. The config.toml inside the exampleSite from the exampleSite is also a good reference. Build your site with hugo serve and see the result at http://localhost:1313/. If you just want to test this theme, go to this page.</description>
     </item>
-    
     <item>
       <title>How to build a website with Hugo and host it on GitHub Pages</title>
       <link>http://jmz3.github.io/posts/hugo-website/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/posts/hugo-website/</guid>
-      <description> PIPELINE Link to heading This is a concise step by step rough-guide on how to build this website from scratch.
-Step 1 Link to heading </description>
+      <description> PIPELINE Link to heading This is a concise step by step rough-guide on how to build this website from scratch.&#xA;Step 1 Link to heading </description>
     </item>
-    
   </channel>
 </rss>

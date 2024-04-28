@@ -6,132 +6,105 @@
     <description>Recent content in Tags on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jmz3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>command line</title>
+      <title>Command Line</title>
       <link>http://jmz3.github.io/tags/command-line/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/command-line/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>github</title>
+      <title>Github</title>
       <link>http://jmz3.github.io/tags/github/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/github/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ssh</title>
+      <title>Ssh</title>
       <link>http://jmz3.github.io/tags/ssh/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/ssh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GPU</title>
       <link>http://jmz3.github.io/tags/gpu/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/gpu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nvidia</title>
       <link>http://jmz3.github.io/tags/nvidia/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/nvidia/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ubuntu</title>
       <link>http://jmz3.github.io/tags/ubuntu/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>http://jmz3.github.io/tags/hugo/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>markdown</title>
+      <title>Markdown</title>
       <link>http://jmz3.github.io/tags/markdown/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/markdown/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>syntax</title>
+      <title>Syntax</title>
       <link>http://jmz3.github.io/tags/syntax/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/syntax/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>css</title>
+      <title>Css</title>
       <link>http://jmz3.github.io/tags/css/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/css/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>go</title>
+      <title>Go</title>
       <link>http://jmz3.github.io/tags/go/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>html</title>
+      <title>Html</title>
       <link>http://jmz3.github.io/tags/html/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/html/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>javascript</title>
+      <title>Javascript</title>
       <link>http://jmz3.github.io/tags/javascript/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/javascript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>website</title>
+      <title>Website</title>
       <link>http://jmz3.github.io/tags/website/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/tags/website/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

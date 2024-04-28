@@ -6,24 +6,21 @@
     <description>Recent content in Categories on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jmz3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>guide</title>
+      <title>Guide</title>
       <link>http://jmz3.github.io/categories/guide/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/categories/guide/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>technical</title>
+      <title>Technical</title>
       <link>http://jmz3.github.io/categories/technical/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/categories/technical/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

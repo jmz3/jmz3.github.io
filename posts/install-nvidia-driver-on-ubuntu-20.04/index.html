@@ -18,8 +18,7 @@
 <meta name="description" content="A specific guide about installing nvidia drivers on machine hosting Ubuntu OS.">
 <meta name="keywords" content="blog,developer,personal">
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Install Nvidia Driver on Ubuntu 20.04"/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Install Nvidia Driver on Ubuntu 20.04"/>
 <meta name="twitter:description" content="A specific guide about installing nvidia drivers on machine hosting Ubuntu OS."/>
 
 <meta property="og:title" content="Install Nvidia Driver on Ubuntu 20.04" />
@@ -66,7 +65,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.110.0">
+<meta name="generator" content="Hugo 0.124.1">
 
 
 
@@ -191,9 +190,9 @@
           
           <div class="categories">
   <i class="fa fa-folder" aria-hidden="true"></i>
-    <a href="/categories/technical/">technical</a>
+    <a href="/categories/technical/">Technical</a>
       <span class="separator">•</span>
-    <a href="/categories/guide/">guide</a></div>
+    <a href="/categories/guide/">Guide</a></div>
 
           <div class="tags">
   <i class="fa fa-tag" aria-hidden="true"></i>
@@ -229,12 +228,12 @@
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
-<p><img src="/static/images/test.png" alt="test img" /></p>
+<p><img alt="test img" src="/static/images/test.png"></p>
 <p>choose the right tested driver version via Software &amp; Updates - Additional Drivers; then click apply changes</p>
 <p>wait for it to download and configure the drivers.</p>
 <p>After that, a window will prompt out to tell you you need to set up a key for secure boot. Type in whatever you want, just try to record/remember what you just type.</p>
 <p>Then a restart button will appear right next to the &ldquo;Revert&rdquo; and &ldquo;Apply changes&rdquo; button. Click it. After restart, you might see a blue screen shown &ldquo;perform MOK management&rdquo; , then you can select &ldquo;enroll MOK&rdquo; and enter the key you just set for secure boot.</p>
-<p><img src="https://img-blog.csdnimg.cn/a96a4c3daec349e39a27602aac320ff8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述" /></p>
+<p><img alt="在这里插入图片描述" src="https://img-blog.csdnimg.cn/a96a4c3daec349e39a27602aac320ff8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16"></p>
 <h1 id="potential-bugs">
   Potential Bugs&hellip;
   <a class="heading-link" href="#potential-bugs">
@@ -246,8 +245,8 @@
 <p>The reason is that, MOK management GUI starts even before the Input devices are initialized. The input devices are not brought up and therefore you cannot use keyboard to type in anything.</p>
 <p>To fix that, you should first shut down the computer and boot it to jump-over the MOK step. This operation will deactivate your Nvidia Driver either, so you have to repeat the previous steps to select the right driver version and reboot your laptop.</p>
 <p>But pay attention, this time you have to click F2 really fast to directly go into BIOS interface before the MOK management GUI shows up. If you succeed, you will find out that keyboard is now ready to use. Now you can exit the BIOS directly. If everything goes well, you&rsquo;ll see the MOK management GUI again but this time your keyboard is available!</p>
-<p><img src="https://img-blog.csdnimg.cn/85b6a33de0b14cd9acf34980a38c855c.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_17,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述" />
-<img src="https://img-blog.csdnimg.cn/3370b27d507e42d1a749d6a9bd95ef19.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述" />
+<p><img alt="在这里插入图片描述" src="https://img-blog.csdnimg.cn/85b6a33de0b14cd9acf34980a38c855c.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_17,color_FFFFFF,t_70,g_se,x_16">
+<img alt="在这里插入图片描述" src="https://img-blog.csdnimg.cn/3370b27d507e42d1a749d6a9bd95ef19.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16">
 <a href="https://unix.stackexchange.com/questions/608217/keyboard-does-not-work-in-mokmanager-during-key-enrollment">https://unix.stackexchange.com/questions/608217/keyboard-does-not-work-in-mokmanager-during-key-enrollment</a></p>
 
       </div>
@@ -276,7 +275,7 @@
       
         2022 -
       
-      2023
+      2024
        Jiaming Zhang 
       ·
       

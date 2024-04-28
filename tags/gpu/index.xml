@@ -6,21 +6,14 @@
     <description>Recent content in GPU on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://jmz3.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Nvidia Driver on Ubuntu 20.04</title>
       <link>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
-      <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H
-OS: Ubuntu 20.04 LTS Dual Boot
-Kernel version: Linux 5.13.0-39-generic
-GPU model: GTX 1660 Ti 6GB
-Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes
-wait for it to download and configure the drivers.
-After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
+      <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H&#xA;OS: Ubuntu 20.04 LTS Dual Boot&#xA;Kernel version: Linux 5.13.0-39-generic&#xA;GPU model: GTX 1660 Ti 6GB&#xA;Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes&#xA;wait for it to download and configure the drivers.&#xA;After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
     </item>
-    
   </channel>
 </rss>
