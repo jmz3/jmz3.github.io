@@ -202,7 +202,7 @@ slug = "contact" -->
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
-<p>Currently, I&rsquo;m working as a research assisant in <a href="https://bigss.lcsr.jhu.edu/">BIOMECHANICAL AND IMAGE GUIDED SURGICAL SYSTEMS (BIGSS)</a> laboratory under the supervision of <a href="https://scholar.google.com/citations?user=0jQj6m4AAAAJ&hl=en">Prof. Mehran Armand</a> and <a href="https://engineering.jhu.edu/faculty/alejandro-martin-gomez/">Prof. Alejandro Martin-Gomez</a>. Here are the projects that I&rsquo;m carrying out.</p>
+<p>Currently, I&rsquo;m working as a research assisant in <a href="https://bigss.lcsr.jhu.edu/">BIOMECHANICAL AND IMAGE GUIDED SURGICAL SYSTEMS (BIGSS)</a> laboratory under the supervision of <a href="https://scholar.google.com/citations?user=0jQj6m4AAAAJ&hl=en">Prof. Mehran Armand</a>, <a href="/">Prof. Amir Kheradmand</a>, and <a href="https://engineering.jhu.edu/faculty/alejandro-martin-gomez/">Prof. Alejandro Martin-Gomez</a>. Here are the projects that I&rsquo;m carrying out.</p>
 <ul>
 <li><a href="/about/#deformable-object-simulation">Deformable Object Simulation</a></li>
 <li><a href="/about/#robot-tms">Robot TMS</a></li>
@@ -217,7 +217,8 @@ slug = "contact" -->
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>Realtime shape estimation of continuum objects and manipulators is essential for developing accurate planning and manipulation paradigms. The existing methods that create dense point clouds from camera images, and/or use distinguishable markers on a deformable body have limitations in realtime tracking of large continuum objects/manipulators and the physical occlusion of markers can often compromise accurate shape estimation. We propose a robust method to estimate the shape of linear deformable objects in realtime using scattered and unordered key points. By utilizing a robust probability-based labeling algorithm, our approach identifies the true order of the detected key points and then reconstructs the shape using piecewise spline interpolation. We demonstrate the robustness of the method when key points are partially occluded. We also show that the method can be used to estimate the shape of a continuum manipulator in realtime. The proposed method is implemented in C++ and integrated with ROS. The code is available <a href="https://github.com/jmz3/DeformableEstimation">here</a>.</p>
+<p><img alt="Deformable Object Simulation" src="/images/ICRADemo2024.gif"></p>
+<p>The existing methods of shape estimation of continuum objects create dense point clouds from camera images, and/or use distinguishable markers on a deformable body. They have natural limitations in realtime tracking of large continuum objects/manipulators and the physical occlusion of markers can often compromise accurate shape estimation. We propose a robust method to estimate the shape of linear deformable objects in realtime using scattered and unordered key points. By utilizing a robust probability-based labeling algorithm, our approach identifies the true order of the detected key points and then reconstructs the shape using piecewise spline interpolation. The proposed method is implemented in C++ and integrated with ROS. The code is available <a href="https://github.com/jmz3/DeformableEstimation">here</a>.</p>
 <h2 id="robot-tms">
   Robot TMS
   <a class="heading-link" href="#robot-tms">
@@ -225,6 +226,8 @@ slug = "contact" -->
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
+<img src="/images/rotms.jpeg" data-canonical-src="/images/samme.png" alt="Robot TMS" align="right" style="width: 60%; padding-left: 50px; margin-bottom: 30px; margin-top: 0px"/>
+<p>With our advanced robotic system, surgeons can easily and accurately deliver non-invasive stimulations to the cortical area of the brain. The system is designed to be easy to use and can be operated by a single person. The system is currently being tested in a clinical trial at the Johns Hopkins Hospital.</p>
 <h2 id="position-based-visual-servoing">
   Position-based Visual Servoing
   <a class="heading-link" href="#position-based-visual-servoing">
@@ -240,19 +243,24 @@ slug = "contact" -->
   </a>
 </h2>
 <p>We developed and maintained an open-source python package <a href="https://github.com/jeremyzz830/xregi/tree/master">xregi</a> that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through <code>pip install xregi</code> to try out!</p>
-<h2 id="samm">
-  SAMM
-  <a class="heading-link" href="#samm">
+<h2 id="samm-segment-any-medical-model">
+  SAMM: Segment Any Medical Model
+  <a class="heading-link" href="#samm-segment-any-medical-model">
     <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>I&rsquo;m excited to announce that our project <a href="https://github.com/bingogome/samm">SAMM</a> has received many attentions from all over the world! Please reach out if you want to collaborate. Here is a demo video of SAMM.</p>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/ZK45noZVIA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
+<img src="/images/samme.png" data-canonical-src="/images/samme.png" width="350"  align="left" style="padding-right: 40px; margin-bottom: 10px; margin-top: 10px"/>
+<p>I&rsquo;m excited to announce that our project <a href="https://github.com/bingogome/samm">SAMM</a> has received many attentions from all over the world! Please reach out if you want to collaborate. SAMM allows users to directly leverage the powerful Segment Anything Model (SAM) to segment medical images (including CT, MR, Ultrasound, and more) in 3D Slicer.</p>
+<!-- <br></br> -->
+<h2 id="posehub-surgical-tool-tracking-with-ar-headset">
+  PoseHub: Surgical Tool Tracking with AR Headset
+  <a class="heading-link" href="#posehub-surgical-tool-tracking-with-ar-headset">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>We are developing a surgical tool tracking system that can be used with augmented reality headsets. The system is designed to provide real-time feedback to the surgeon about the location of the surgical tool. The system has a scene-graph structure that allows for easy integration with different tracking devices and visualization tools. A synthetic dataset is generated in ROS to test the system. The code is available <a href="https://github.com/jmz3/PoseHub.git">here</a></p>
 
   </article>
 </section>
