@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICRA 2024 on Jiaming Zhang</title>
+    <link>http://jmz3.github.io/tags/icra-2024/</link>
+    <description>Recent content in ICRA 2024 on Jiaming Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/tags/icra-2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robust Realtime Shape Estimation of Deformable Linear Object</title>
+      <link>http://jmz3.github.io/posts/deform/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/deform/</guid>
+      <description>Deformable Object Simulation Link to heading The existing methods of shape estimation of continuum objects create dense point clouds from camera images, and/or use distinguishable markers on a deformable body. They have natural limitations in realtime tracking of large continuum objects/manipulators and the physical occlusion of markers can often compromise accurate shape estimation. We propose a robust method to estimate the shape of linear deformable objects in realtime using scattered and unordered key points.</description>
+    </item>
+  </channel>
+</rss>

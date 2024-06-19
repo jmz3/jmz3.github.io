@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Jiaming Zhang</title>
+    <link>http://jmz3.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on Jiaming Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robotic Transcranial Magnetic Stimulation</title>
+      <link>http://jmz3.github.io/posts/rotms/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/rotms/</guid>
+      <description>With our advanced robotic system, surgeons can easily and accurately deliver non-invasive stimulations to the cortical area of the brain. The system is designed to be easy to use and can be operated by a single person. The system is currently being tested in a clinical trial at the Johns Hopkins Hospital.</description>
+    </item>
+  </channel>
+</rss>

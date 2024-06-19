@@ -6,14 +6,42 @@
     <description>Recent content in Technical on Jiaming Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://jmz3.github.io/categories/technical/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Create SSH Keys for Local Machine and Add it to Github</title>
-      <link>http://jmz3.github.io/posts/create-ssh-keys-for-your-local-machine/</link>
-      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://jmz3.github.io/posts/create-ssh-keys-for-your-local-machine/</guid>
-      <description>$ ssh-keygen -t ed25519 -C &amp;#34;your_email@example.com&amp;#34; </description>
+      <title>Robust Realtime Shape Estimation of Deformable Linear Object</title>
+      <link>http://jmz3.github.io/posts/deform/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/deform/</guid>
+      <description>Deformable Object Simulation Link to heading The existing methods of shape estimation of continuum objects create dense point clouds from camera images, and/or use distinguishable markers on a deformable body. They have natural limitations in realtime tracking of large continuum objects/manipulators and the physical occlusion of markers can often compromise accurate shape estimation. We propose a robust method to estimate the shape of linear deformable objects in realtime using scattered and unordered key points.</description>
+    </item>
+    <item>
+      <title>SAMME: Segment Any Medical Model Extended</title>
+      <link>http://jmz3.github.io/posts/sam/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/sam/</guid>
+      <description>I&amp;rsquo;m excited to announce that our project SAMM has received many attentions from all over the world! Please reach out if you want to collaborate. SAMM allows users to directly leverage the powerful Segment Anything Model (SAM) to segment medical images (including CT, MR, Ultrasound, and more) in 3D Slicer.</description>
+    </item>
+    <item>
+      <title>PoseHub: Surgical Tool Tracking with AR Headset</title>
+      <link>http://jmz3.github.io/posts/ar-track/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/ar-track/</guid>
+      <description>PoseHub: Surgical Tool Tracking with AR Headset Link to heading We are developing a surgical tool tracking system that can be used with augmented reality headsets. The system is designed to provide real-time feedback to the surgeon about the location of the surgical tool. The system has a scene-graph structure that allows for easy integration with different tracking devices and visualization tools. A synthetic dataset is generated in ROS to test the system.</description>
+    </item>
+    <item>
+      <title>XREGI: Learning-based 2D/3D Fluoroscopic Image Registration</title>
+      <link>http://jmz3.github.io/posts/xregi/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/xregi/</guid>
+      <description>Learning-based 2D/3D Fluoroscopic Image Registration Link to heading We developed and maintained an open-source python package xregi that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through pip install xregi to try out!</description>
+    </item>
+    <item>
+      <title>Robotic Transcranial Magnetic Stimulation</title>
+      <link>http://jmz3.github.io/posts/rotms/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/rotms/</guid>
+      <description>With our advanced robotic system, surgeons can easily and accurately deliver non-invasive stimulations to the cortical area of the brain. The system is designed to be easy to use and can be operated by a single person. The system is currently being tested in a clinical trial at the Johns Hopkins Hospital.</description>
     </item>
     <item>
       <title>Install Nvidia Driver on Ubuntu 20.04</title>
@@ -23,32 +51,11 @@
       <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H&#xA;OS: Ubuntu 20.04 LTS Dual Boot&#xA;Kernel version: Linux 5.13.0-39-generic&#xA;GPU model: GTX 1660 Ti 6GB&#xA;Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes&#xA;wait for it to download and configure the drivers.&#xA;After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
     </item>
     <item>
-      <title>Test Post</title>
-      <link>http://jmz3.github.io/posts/test/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://jmz3.github.io/posts/test/</guid>
-      <description>The following markdown file showcases all the features one can achieve within markdown and with Hugo shortcodes.</description>
-    </item>
-    <item>
       <title>Configurations about Hugo-Coder Theme</title>
       <link>http://jmz3.github.io/posts/configurations/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://jmz3.github.io/posts/configurations/</guid>
       <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:&#xA;Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
-    </item>
-    <item>
-      <title>Quick Start for Hugo-Coder</title>
-      <link>http://jmz3.github.io/posts/quick-start/</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://jmz3.github.io/posts/quick-start/</guid>
-      <description>Quick Start Link to heading To start using hugo-coder:&#xA;Add the repository into your Hugo Project repository as a submodule, git submodule add https://github.com/luizdepra/hugo-coder.git themes/coder. Configure your config.toml. You can use this minimal configuration as a base. The config.toml inside the exampleSite from the exampleSite is also a good reference. Build your site with hugo serve and see the result at http://localhost:1313/. If you just want to test this theme, go to this page.</description>
-    </item>
-    <item>
-      <title>How to build a website with Hugo and host it on GitHub Pages</title>
-      <link>http://jmz3.github.io/posts/hugo-website/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://jmz3.github.io/posts/hugo-website/</guid>
-      <description> PIPELINE Link to heading This is a concise step by step rough-guide on how to build this website from scratch.&#xA;Step 1 Link to heading </description>
     </item>
   </channel>
 </rss>
