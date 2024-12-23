@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jmz3.github.io/pt-cn/authors/</loc>
+    <loc>http://localhost:1313/pt-cn/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jmz3.github.io/authors/"
+                href="http://localhost:1313/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jmz3.github.io/pt-cn/authors/"
+                href="http://localhost:1313/pt-cn/authors/"
                 />
   </url><url>
-    <loc>http://jmz3.github.io/pt-cn/categories/</loc>
+    <loc>http://localhost:1313/pt-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jmz3.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jmz3.github.io/pt-cn/categories/"
+                href="http://localhost:1313/pt-cn/categories/"
                 />
   </url><url>
-    <loc>http://jmz3.github.io/pt-cn/series/</loc>
+    <loc>http://localhost:1313/pt-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jmz3.github.io/series/"
+                href="http://localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jmz3.github.io/pt-cn/series/"
+                href="http://localhost:1313/pt-cn/series/"
                 />
   </url><url>
-    <loc>http://jmz3.github.io/pt-cn/tags/</loc>
+    <loc>http://localhost:1313/pt-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jmz3.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jmz3.github.io/pt-cn/tags/"
+                href="http://localhost:1313/pt-cn/tags/"
                 />
   </url><url>
-    <loc>http://jmz3.github.io/pt-cn/</loc>
+    <loc>http://localhost:1313/pt-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jmz3.github.io/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://jmz3.github.io/pt-cn/"
+                href="http://localhost:1313/pt-cn/"
                 />
   </url>
 </urlset>
