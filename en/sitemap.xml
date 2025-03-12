@@ -2,166 +2,184 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/deform/</loc>
+    <loc>http://jmz3.github.io/posts/dart-vinci/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/posts/deform/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sam/</loc>
+    <loc>http://jmz3.github.io/posts/sam/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ar-track/</loc>
+    <loc>http://jmz3.github.io/posts/ar-track/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/xregi/</loc>
+    <loc>http://jmz3.github.io/posts/xregi/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rotms/</loc>
+    <loc>http://jmz3.github.io/posts/rotms/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/</loc>
+    <loc>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/configurations/</loc>
+    <loc>http://jmz3.github.io/posts/configurations/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/multilingual-mode/</loc>
+    <loc>http://jmz3.github.io/posts/multilingual-mode/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <loc>http://jmz3.github.io/posts/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://jmz3.github.io/tags/ar/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/categories/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://localhost:1313/pt-cn/categories/"
+                href="http://jmz3.github.io/pt-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://jmz3.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/cv/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://jmz3.github.io/tags/da-vinci/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/guide/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://jmz3.github.io/tags/iros-2025/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/icra-2024/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://jmz3.github.io/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://localhost:1313/pt-cn/"
+                href="http://jmz3.github.io/pt-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://jmz3.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://jmz3.github.io/categories/paper/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/tags/robot-learning/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/tags/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://localhost:1313/pt-cn/tags/"
+                href="http://jmz3.github.io/pt-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://jmz3.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/technical/</loc>
+    <loc>http://jmz3.github.io/categories/technical/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/tags/cv/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tracking/</loc>
+    <loc>http://jmz3.github.io/categories/guide/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-image/</loc>
+    <loc>http://jmz3.github.io/tags/icra-2024/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/tags/tracking/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jmz3.github.io/tags/medical-image/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spie-2024/</loc>
+    <loc>http://jmz3.github.io/tags/spie-2024/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gpu/</loc>
+    <loc>http://jmz3.github.io/tags/gpu/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nvidia/</loc>
+    <loc>http://jmz3.github.io/tags/nvidia/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ubuntu/</loc>
+    <loc>http://jmz3.github.io/tags/ubuntu/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>http://jmz3.github.io/publications/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>http://jmz3.github.io/cv/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://jmz3.github.io/about/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>http://jmz3.github.io/tags/css/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>http://jmz3.github.io/tags/github/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>http://jmz3.github.io/tags/go/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>http://jmz3.github.io/tags/html/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>http://jmz3.github.io/tags/hugo/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>http://jmz3.github.io/tags/javascript/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>http://jmz3.github.io/tags/markdown/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
+    <loc>http://jmz3.github.io/tags/website/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://jmz3.github.io/contact/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/robotics/</loc>
+    <loc>http://jmz3.github.io/tags/robotics/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tms/</loc>
+    <loc>http://jmz3.github.io/tags/tms/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://jmz3.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://localhost:1313/pt-cn/authors/"
+                href="http://jmz3.github.io/pt-cn/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/"
+                href="http://jmz3.github.io/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://jmz3.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-cn"
-                href="http://localhost:1313/pt-cn/series/"
+                href="http://jmz3.github.io/pt-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="http://jmz3.github.io/series/"
                 />
   </url>
 </urlset>

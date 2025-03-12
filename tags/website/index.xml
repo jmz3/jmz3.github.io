@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on Jiaming Zhang</title>
-    <link>http://localhost:1313/tags/website/</link>
+    <link>http://jmz3.github.io/tags/website/</link>
     <description>Recent content in Website on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jmz3.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configurations about Hugo-Coder Theme</title>
-      <link>http://localhost:1313/posts/configurations/</link>
+      <link>http://jmz3.github.io/posts/configurations/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/configurations/</guid>
+      <guid>http://jmz3.github.io/posts/configurations/</guid>
       <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:&#xA;Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
     </item>
   </channel>

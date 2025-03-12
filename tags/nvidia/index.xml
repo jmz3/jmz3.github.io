@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nvidia on Jiaming Zhang</title>
-    <link>http://localhost:1313/tags/nvidia/</link>
+    <link>http://jmz3.github.io/tags/nvidia/</link>
     <description>Recent content in Nvidia on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jmz3.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Nvidia Driver on Ubuntu 20.04</title>
-      <link>http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
+      <link>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
+      <guid>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
       <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H&#xA;OS: Ubuntu 20.04 LTS Dual Boot&#xA;Kernel version: Linux 5.13.0-39-generic&#xA;GPU model: GTX 1660 Ti 6GB&#xA;Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes&#xA;wait for it to download and configure the drivers.&#xA;After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
     </item>
   </channel>

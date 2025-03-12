@@ -1,67 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jiaming Zhang</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Jiaming Zhang</description>
+    <title>Jiaming Zhang</title>
+    <link>http://jmz3.github.io/posts/</link>
+    <description>Recent content on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jmz3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale</title>
+      <link>http://jmz3.github.io/posts/dart-vinci/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://jmz3.github.io/posts/dart-vinci/</guid>
+      <description>Your browser does not support the video tag. [PDF] [Arxiv] [Website] [GitHub] Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&#xA;In this work, we introduce dARt Vinci, a scalable data collection platform for robot learning in surgical settings.</description>
+    </item>
     <item>
       <title>Robust Realtime Shape Estimation of Deformable Linear Object</title>
-      <link>http://localhost:1313/posts/deform/</link>
+      <link>http://jmz3.github.io/posts/deform/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/deform/</guid>
+      <guid>http://jmz3.github.io/posts/deform/</guid>
       <description>Deformable Object Simulation Link to heading The existing methods of shape estimation of continuum objects create dense point clouds from camera images, and/or use distinguishable markers on a deformable body. They have natural limitations in realtime tracking of large continuum objects/manipulators and the physical occlusion of markers can often compromise accurate shape estimation. We propose a robust method to estimate the shape of linear deformable objects in realtime using scattered and unordered key points.</description>
     </item>
     <item>
       <title>SAMME: Segment Any Medical Model Extended</title>
-      <link>http://localhost:1313/posts/sam/</link>
+      <link>http://jmz3.github.io/posts/sam/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sam/</guid>
+      <guid>http://jmz3.github.io/posts/sam/</guid>
       <description>I&amp;rsquo;m excited to announce that our project SAMM has received many attentions from all over the world! Please reach out if you want to collaborate. SAMM allows users to directly leverage the powerful Segment Anything Model (SAM) to segment medical images (including CT, MR, Ultrasound, and more) in 3D Slicer.</description>
     </item>
     <item>
       <title>PoseHub: Surgical Tool Tracking with AR Headset</title>
-      <link>http://localhost:1313/posts/ar-track/</link>
+      <link>http://jmz3.github.io/posts/ar-track/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ar-track/</guid>
+      <guid>http://jmz3.github.io/posts/ar-track/</guid>
       <description>PoseHub: Surgical Tool Tracking with AR Headset Link to heading We are developing a surgical tool tracking system that can be used with augmented reality headsets. The system is designed to provide real-time feedback to the surgeon about the location of the surgical tool. The system has a scene-graph structure that allows for easy integration with different tracking devices and visualization tools. A synthetic dataset is generated in ROS to test the system.</description>
     </item>
     <item>
       <title>XREGI: Learning-based 2D/3D Fluoroscopic Image Registration</title>
-      <link>http://localhost:1313/posts/xregi/</link>
+      <link>http://jmz3.github.io/posts/xregi/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/xregi/</guid>
+      <guid>http://jmz3.github.io/posts/xregi/</guid>
       <description>Learning-based 2D/3D Fluoroscopic Image Registration Link to heading We developed and maintained an open-source python package xregi that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through pip install xregi to try out!</description>
     </item>
     <item>
       <title>Robotic Transcranial Magnetic Stimulation</title>
-      <link>http://localhost:1313/posts/rotms/</link>
+      <link>http://jmz3.github.io/posts/rotms/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rotms/</guid>
+      <guid>http://jmz3.github.io/posts/rotms/</guid>
       <description>With our advanced robotic system, surgeons can easily and accurately deliver non-invasive stimulations to the cortical area of the brain. The system is designed to be easy to use and can be operated by a single person. The system is currently being tested in a clinical trial at the Johns Hopkins Hospital.</description>
     </item>
     <item>
       <title>Install Nvidia Driver on Ubuntu 20.04</title>
-      <link>http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
+      <link>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
+      <guid>http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
       <description>Environment Hardware: Lenovo y9000p 2019 - intel i7-9750H&#xA;OS: Ubuntu 20.04 LTS Dual Boot&#xA;Kernel version: Linux 5.13.0-39-generic&#xA;GPU model: GTX 1660 Ti 6GB&#xA;Install Nvidia Drivers through GUI Link to heading choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes&#xA;wait for it to download and configure the drivers.&#xA;After that, a window will prompt out to tell you you need to set up a key for secure boot.</description>
     </item>
     <item>
       <title>Configurations about Hugo-Coder Theme</title>
-      <link>http://localhost:1313/posts/configurations/</link>
+      <link>http://jmz3.github.io/posts/configurations/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/configurations/</guid>
+      <guid>http://jmz3.github.io/posts/configurations/</guid>
       <description>Configurations Link to heading About Hugo Configurations Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Theme Parameters Social Icons Configuration Menu Items Configurations CSP Complete Example Front Matter Posts About Hugo Configurations Link to heading This theme supports:&#xA;Analytics Google Analytics Google Tag Manager Fathom Analytics Plausible Analytics Goat Counter Cloudflare Matomo Application Insights Commenting Systems Disqus Commento Utterances Giscus Analytics Link to heading Google Analytics Link to heading Follow these steps.</description>
     </item>
     <item>
       <title>Multilingual-Mode</title>
-      <link>http://localhost:1313/posts/multilingual-mode/</link>
+      <link>http://jmz3.github.io/posts/multilingual-mode/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/multilingual-mode/</guid>
+      <guid>http://jmz3.github.io/posts/multilingual-mode/</guid>
       <description>Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:&#xA;Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungarian Italian Japanese Malay Dutch Polish Brazilian Portuguese Romanian Russian Swedish Slovak Turkish Simplified Chinese Taiwan Chinese Configure languages Link to heading Go to this Hugo documentation page to configure one or multiple languages for your website.</description>
     </item>
   </channel>
