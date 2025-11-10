@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
   Install Nvidia Driver on Ubuntu 20.04 · Jiaming Zhang
 </title>
-    <meta charset="utf-8">
+  <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
 
 
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; prefetch-src 'self'; connect-src 'self' https://www.google-analytics.com;">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; connect-src 'self' https://www.google-analytics.com;">
 
 
 
@@ -19,11 +20,12 @@
 <meta name="keywords" content="blog,developer,personal">
 
 
+
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Install Nvidia Driver on Ubuntu 20.04">
   <meta name="twitter:description" content="A specific guide about installing nvidia drivers on machine hosting Ubuntu OS.">
 
-<meta property="og:url" content="http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/">
+<meta property="og:url" content="http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/">
   <meta property="og:site_name" content="Jiaming Zhang">
   <meta property="og:title" content="Install Nvidia Driver on Ubuntu 20.04">
   <meta property="og:description" content="A specific guide about installing nvidia drivers on machine hosting Ubuntu OS.">
@@ -39,15 +41,17 @@
 
 
 
-<link rel="canonical" href="http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/">
+<link rel="canonical" href="http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/">
 
 
-<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
 
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.e7d9b9c145f86e4fec091cc2970326f847fa369f42a37d2fd47ecbfcdcdeccf8.css" integrity="sha256-59m5wUX4bk/sCRzClwMm&#43;Ef6Np9Co30v1H7L/NzezPg=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
 
 
 
@@ -61,6 +65,7 @@
 
 
 
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
 <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
@@ -73,7 +78,6 @@
 
 
 
-<meta name="generator" content="Hugo 0.128.2">
 
 
 
@@ -102,7 +106,7 @@
 
 
 
-  </head>
+</head>
 
 
 
@@ -113,35 +117,37 @@
   <main class="wrapper">
     <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="/">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
       Jiaming Zhang
     </a>
     
+    
       <input type="checkbox" id="menu-toggle" />
       <label class="menu-button float-right" for="menu-toggle">
-        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
       </label>
       <ul class="navigation-list">
         
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/about/">About</a>
+              <a class="navigation-link " href="/about/">About</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/posts/">Research</a>
+              <a class="navigation-link " href="/posts/">Research</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/cv/">CV</a>
+              <a class="navigation-link " href="/cv/">CV</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/publications/">Publications</a>
+              <a class="navigation-link " href="/publications/">Publications</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/contact/">Contact</a>
+              <a class="navigation-link " href="/contact/">Contact</a>
             </li>
           
         
@@ -159,7 +165,7 @@
                 
               
               <li class="navigation-item">
-                <a href="http://jmz3.github.io/pt-cn/">Chinese</a>
+                <a href="/pt-cn/">Chinese</a>
               </li>
             
           
@@ -177,7 +183,7 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://jmz3.github.io/posts/install-nvidia-driver-on-ubuntu-20.04/">
+            <a class="title-link" href="http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/">
               Install Nvidia Driver on Ubuntu 20.04
             </a>
           </h1>
@@ -185,25 +191,25 @@
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
-              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
               <time datetime="2023-02-01T00:00:00Z">
                 February 1, 2023
               </time>
             </span>
             <span class="reading-time">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
               2-minute read
             </span>
           </div>
           
           <div class="categories">
-  <i class="fa fa-folder" aria-hidden="true"></i>
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
     <a href="/categories/technical/">Technical</a>
       <span class="separator">•</span>
     <a href="/categories/guide/">Guide</a></div>
 
           <div class="tags">
-  <i class="fa fa-tag" aria-hidden="true"></i>
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
     <span class="tag">
       <a href="/tags/ubuntu/">Ubuntu</a>
     </span>
@@ -232,20 +238,20 @@
 <h1 id="install-nvidia-drivers-through-gui">
   Install Nvidia Drivers through GUI
   <a class="heading-link" href="#install-nvidia-drivers-through-gui">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
-<p><img alt="test img" src="/static/images/test.png"></p>
+<p><img src="/static/images/test.png" alt="test img"></p>
 <p>choose the right tested driver version via Software &amp; Updates - Additional Drivers; then click apply changes</p>
 <p>wait for it to download and configure the drivers.</p>
 <p>After that, a window will prompt out to tell you you need to set up a key for secure boot. Type in whatever you want, just try to record/remember what you just type.</p>
 <p>Then a restart button will appear right next to the &ldquo;Revert&rdquo; and &ldquo;Apply changes&rdquo; button. Click it. After restart, you might see a blue screen shown &ldquo;perform MOK management&rdquo; , then you can select &ldquo;enroll MOK&rdquo; and enter the key you just set for secure boot.</p>
-<p><img alt="在这里插入图片描述" src="https://img-blog.csdnimg.cn/a96a4c3daec349e39a27602aac320ff8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16"></p>
+<p><img src="https://img-blog.csdnimg.cn/a96a4c3daec349e39a27602aac320ff8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述"></p>
 <h1 id="potential-bugs">
   Potential Bugs&hellip;
   <a class="heading-link" href="#potential-bugs">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
@@ -253,9 +259,9 @@
 <p>The reason is that, MOK management GUI starts even before the Input devices are initialized. The input devices are not brought up and therefore you cannot use keyboard to type in anything.</p>
 <p>To fix that, you should first shut down the computer and boot it to jump-over the MOK step. This operation will deactivate your Nvidia Driver either, so you have to repeat the previous steps to select the right driver version and reboot your laptop.</p>
 <p>But pay attention, this time you have to click F2 really fast to directly go into BIOS interface before the MOK management GUI shows up. If you succeed, you will find out that keyboard is now ready to use. Now you can exit the BIOS directly. If everything goes well, you&rsquo;ll see the MOK management GUI again but this time your keyboard is available!</p>
-<p><img alt="在这里插入图片描述" src="https://img-blog.csdnimg.cn/85b6a33de0b14cd9acf34980a38c855c.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_17,color_FFFFFF,t_70,g_se,x_16">
-<img alt="在这里插入图片描述" src="https://img-blog.csdnimg.cn/3370b27d507e42d1a749d6a9bd95ef19.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16">
-<a href="https://unix.stackexchange.com/questions/608217/keyboard-does-not-work-in-mokmanager-during-key-enrollment">https://unix.stackexchange.com/questions/608217/keyboard-does-not-work-in-mokmanager-during-key-enrollment</a></p>
+<p><img src="https://img-blog.csdnimg.cn/85b6a33de0b14cd9acf34980a38c855c.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_17,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述">
+<img src="https://img-blog.csdnimg.cn/3370b27d507e42d1a749d6a9bd95ef19.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5bCP5byg5oOz5aW95aW95a2m5Lmg,size_20,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述">
+<a href="https://unix.stackexchange.com/questions/608217/keyboard-does-not-work-in-mokmanager-during-key-enrollment"  class="external-link" target="_blank" rel="noopener">https://unix.stackexchange.com/questions/608217/keyboard-does-not-work-in-mokmanager-during-key-enrollment</a></p>
 
       </div>
 
@@ -264,6 +270,9 @@
         
 
 
+        
+        
+        
         
         
         
@@ -300,7 +309,7 @@
 
   
   
-  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.js"></script>
   
 
   
@@ -309,9 +318,24 @@
 
 
   
+
   
 
+  
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
 
@@ -327,5 +351,4 @@
 
   
 </body>
-
 </html>

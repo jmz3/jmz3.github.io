@@ -1,23 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
   Multilingual-Mode · Jiaming Zhang
 </title>
-    <meta charset="utf-8">
+  <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
 
 
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; prefetch-src 'self'; connect-src 'self' https://www.google-analytics.com;">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; connect-src 'self' https://www.google-analytics.com;">
 
 
 
 
 <meta name="author" content="Jiaming Zhang">
-<meta name="description" content="Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:
-Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungarian Italian Japanese Malay Dutch Polish Brazilian Portuguese Romanian Russian Swedish Slovak Turkish Simplified Chinese Taiwan Chinese Configure languages Link to heading Go to this Hugo documentation page to configure one or multiple languages for your website.">
+<meta name="description" content="
+  Multilingual-Mode
+  
+    
+    Link to heading
+  
+
+
+Available Languages
+Configure Languages
+Translation File Example
+
+
+  Available Languages
+  
+    
+    Link to heading
+  
+
+This theme supports the following languages:
+
+Arabic
+Bengali
+Czech
+German
+English
+Spanish
+Finnish
+French
+Hebrew
+Hindi
+Hungarian
+Italian
+Japanese
+Malay
+Dutch
+Polish
+Brazilian Portuguese
+Romanian
+Russian
+Swedish
+Slovak
+Turkish
+Simplified Chinese
+Taiwan Chinese
+
+
+  Configure languages
+  
+    
+    Link to heading
+  
+
+Go to this Hugo documentation page to configure one or multiple languages for your website.">
 <meta name="keywords" content="blog,developer,personal">
+
 
 
   <meta name="twitter:card" content="summary">
@@ -25,7 +79,7 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
   <meta name="twitter:description" content="Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:
 Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungarian Italian Japanese Malay Dutch Polish Brazilian Portuguese Romanian Russian Swedish Slovak Turkish Simplified Chinese Taiwan Chinese Configure languages Link to heading Go to this Hugo documentation page to configure one or multiple languages for your website.">
 
-<meta property="og:url" content="http://jmz3.github.io/posts/multilingual-mode/">
+<meta property="og:url" content="http://localhost:1313/posts/multilingual-mode/">
   <meta property="og:site_name" content="Jiaming Zhang">
   <meta property="og:title" content="Multilingual-Mode">
   <meta property="og:description" content="Multilingual-Mode Link to heading Available Languages Configure Languages Translation File Example Available Languages Link to heading This theme supports the following languages:
@@ -39,15 +93,17 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
 
 
-<link rel="canonical" href="http://jmz3.github.io/posts/multilingual-mode/">
+<link rel="canonical" href="http://localhost:1313/posts/multilingual-mode/">
 
 
-<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
 
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.e7d9b9c145f86e4fec091cc2970326f847fa369f42a37d2fd47ecbfcdcdeccf8.css" integrity="sha256-59m5wUX4bk/sCRzClwMm&#43;Ef6Np9Co30v1H7L/NzezPg=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
 
 
 
@@ -61,6 +117,7 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
 
 
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
 <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
@@ -73,7 +130,6 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
 
 
-<meta name="generator" content="Hugo 0.128.2">
 
 
 
@@ -102,7 +158,7 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
 
 
-  </head>
+</head>
 
 
 
@@ -113,35 +169,37 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
   <main class="wrapper">
     <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="/">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
       Jiaming Zhang
     </a>
     
+    
       <input type="checkbox" id="menu-toggle" />
       <label class="menu-button float-right" for="menu-toggle">
-        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
       </label>
       <ul class="navigation-list">
         
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/about/">About</a>
+              <a class="navigation-link " href="/about/">About</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/posts/">Research</a>
+              <a class="navigation-link " href="/posts/">Research</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/cv/">CV</a>
+              <a class="navigation-link " href="/cv/">CV</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/publications/">Publications</a>
+              <a class="navigation-link " href="/publications/">Publications</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/contact/">Contact</a>
+              <a class="navigation-link " href="/contact/">Contact</a>
             </li>
           
         
@@ -159,7 +217,7 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
                 
               
               <li class="navigation-item">
-                <a href="http://jmz3.github.io/pt-cn/">Chinese</a>
+                <a href="/pt-cn/">Chinese</a>
               </li>
             
           
@@ -177,7 +235,7 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://jmz3.github.io/posts/multilingual-mode/">
+            <a class="title-link" href="http://localhost:1313/posts/multilingual-mode/">
               Multilingual-Mode
             </a>
           </h1>
@@ -185,13 +243,13 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
-              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
               <time datetime="2023-01-10T00:00:00Z">
                 January 10, 2023
               </time>
             </span>
             <span class="reading-time">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
               One-minute read
             </span>
           </div>
@@ -206,19 +264,19 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
         <h1 id="multilingual-mode">
   Multilingual-Mode
   <a class="heading-link" href="#multilingual-mode">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
 <ul>
-<li><a href="/posts/multilingual-mode/#available-languages">Available Languages</a></li>
-<li><a href="/posts/multilingual-mode/#configure-languages">Configure Languages</a></li>
-<li><a href="/posts/multilingual-mode/#translation-file-example">Translation File Example</a></li>
+<li><a href="#available-languages" >Available Languages</a></li>
+<li><a href="#configure-languages" >Configure Languages</a></li>
+<li><a href="#translation-file-example" >Translation File Example</a></li>
 </ul>
 <h2 id="available-languages">
   Available Languages
   <a class="heading-link" href="#available-languages">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
@@ -252,15 +310,15 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 <h2 id="configure-languages">
   Configure languages
   <a class="heading-link" href="#configure-languages">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>Go to <a href="https://gohugo.io/content-management/multilingual/#configure-languages">this Hugo documentation page</a> to configure one or multiple languages for your website.</p>
+<p>Go to <a href="https://gohugo.io/content-management/multilingual/#configure-languages"  class="external-link" target="_blank" rel="noopener">this Hugo documentation page</a> to configure one or multiple languages for your website.</p>
 <h2 id="translation-file-example">
   Translation File Example
   <a class="heading-link" href="#translation-file-example">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
@@ -306,6 +364,9 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
         
         
         
+        
+        
+        
       </footer>
     </article>
 
@@ -338,7 +399,7 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
   
   
-  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.js"></script>
   
 
   
@@ -347,9 +408,24 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
 
   
+
   
 
+  
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
 
@@ -365,5 +441,4 @@ Arabic Bengali Czech German English Spanish Finnish French Hebrew Hindi Hungaria
 
   
 </body>
-
 </html>

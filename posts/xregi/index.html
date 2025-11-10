@@ -1,29 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
   XREGI: Learning-based 2D/3D Fluoroscopic Image Registration · Jiaming Zhang
 </title>
-    <meta charset="utf-8">
+  <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
 
 
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; prefetch-src 'self'; connect-src 'self' https://www.google-analytics.com;">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; connect-src 'self' https://www.google-analytics.com;">
 
 
 
 
 <meta name="author" content="Jiaming Zhang">
-<meta name="description" content="Learning-based 2D/3D Fluoroscopic Image Registration Link to heading We developed and maintained an open-source python package xregi that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through pip install xregi to try out!">
+<meta name="description" content="
+  Learning-based 2D/3D Fluoroscopic Image Registration
+  
+    
+    Link to heading
+  
+
+We developed and maintained an open-source python package xregi that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through pip install xregi to try out!">
 <meta name="keywords" content="blog,developer,personal">
+
 
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="XREGI: Learning-based 2D/3D Fluoroscopic Image Registration">
   <meta name="twitter:description" content="Learning-based 2D/3D Fluoroscopic Image Registration Link to heading We developed and maintained an open-source python package xregi that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through pip install xregi to try out!">
 
-<meta property="og:url" content="http://jmz3.github.io/posts/xregi/">
+<meta property="og:url" content="http://localhost:1313/posts/xregi/">
   <meta property="og:site_name" content="Jiaming Zhang">
   <meta property="og:title" content="XREGI: Learning-based 2D/3D Fluoroscopic Image Registration">
   <meta property="og:description" content="Learning-based 2D/3D Fluoroscopic Image Registration Link to heading We developed and maintained an open-source python package xregi that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through pip install xregi to try out!">
@@ -37,15 +46,17 @@
 
 
 
-<link rel="canonical" href="http://jmz3.github.io/posts/xregi/">
+<link rel="canonical" href="http://localhost:1313/posts/xregi/">
 
 
-<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
 
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.e7d9b9c145f86e4fec091cc2970326f847fa369f42a37d2fd47ecbfcdcdeccf8.css" integrity="sha256-59m5wUX4bk/sCRzClwMm&#43;Ef6Np9Co30v1H7L/NzezPg=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
 
 
 
@@ -59,6 +70,7 @@
 
 
 
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
 <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
@@ -71,7 +83,6 @@
 
 
 
-<meta name="generator" content="Hugo 0.128.2">
 
 
 
@@ -100,7 +111,7 @@
 
 
 
-  </head>
+</head>
 
 
 
@@ -111,35 +122,37 @@
   <main class="wrapper">
     <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="/">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
       Jiaming Zhang
     </a>
     
+    
       <input type="checkbox" id="menu-toggle" />
       <label class="menu-button float-right" for="menu-toggle">
-        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
       </label>
       <ul class="navigation-list">
         
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/about/">About</a>
+              <a class="navigation-link " href="/about/">About</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/posts/">Research</a>
+              <a class="navigation-link " href="/posts/">Research</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/cv/">CV</a>
+              <a class="navigation-link " href="/cv/">CV</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/publications/">Publications</a>
+              <a class="navigation-link " href="/publications/">Publications</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link" href="/contact/">Contact</a>
+              <a class="navigation-link " href="/contact/">Contact</a>
             </li>
           
         
@@ -157,7 +170,7 @@
                 
               
               <li class="navigation-item">
-                <a href="http://jmz3.github.io/pt-cn/">Chinese</a>
+                <a href="/pt-cn/">Chinese</a>
               </li>
             
           
@@ -175,7 +188,7 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://jmz3.github.io/posts/xregi/">
+            <a class="title-link" href="http://localhost:1313/posts/xregi/">
               XREGI: Learning-based 2D/3D Fluoroscopic Image Registration
             </a>
           </h1>
@@ -183,25 +196,25 @@
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
-              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
               <time datetime="2023-04-06T00:00:00Z">
                 April 6, 2023
               </time>
             </span>
             <span class="reading-time">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
               One-minute read
             </span>
           </div>
           
           <div class="categories">
-  <i class="fa fa-folder" aria-hidden="true"></i>
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
     <a href="/categories/technical/">Technical</a>
       <span class="separator">•</span>
     <a href="/categories/guide/">Guide</a></div>
 
           <div class="tags">
-  <i class="fa fa-tag" aria-hidden="true"></i>
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
     <span class="tag">
       <a href="/tags/medical-image/">Medical Image</a>
     </span></div>
@@ -214,11 +227,11 @@
         <h2 id="learning-based-2d3d-fluoroscopic-image-registration">
   Learning-based 2D/3D Fluoroscopic Image Registration
   <a class="heading-link" href="#learning-based-2d3d-fluoroscopic-image-registration">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>We developed and maintained an open-source python package <a href="https://github.com/jeremyzz830/xregi/tree/master">xregi</a> that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through <code>pip install xregi</code> to try out!</p>
+<p>We developed and maintained an open-source python package <a href="https://github.com/jeremyzz830/xregi/tree/master"  class="external-link" target="_blank" rel="noopener">xregi</a> that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through <code>pip install xregi</code> to try out!</p>
 
       </div>
 
@@ -227,6 +240,9 @@
         
 
 
+        
+        
+        
         
         
         
@@ -263,7 +279,7 @@
 
   
   
-  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.js"></script>
   
 
   
@@ -272,9 +288,24 @@
 
 
   
+
   
 
+  
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
 
@@ -290,5 +321,4 @@
 
   
 </body>
-
 </html>
