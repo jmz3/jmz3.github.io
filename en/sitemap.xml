@@ -2,44 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/openiris/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/openiris/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/openiris/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/openiris/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/dart-vinci/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/dart-vinci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/dart-vinci/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/dart-vinci/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/endoscope/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/endoscope/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/endoscope/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/endoscope/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/rotms/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/rotms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/rotms/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/rotms/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/deform/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/deform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/deform/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/deform/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sam/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/sam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/sam/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/sam/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ar-track/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/ar-track/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/ar-track/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/ar-track/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/xregi/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/xregi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/xregi/"
+                />
   </url><url>
-    <loc>http://localhost:1313/posts/rotms/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-cn/posts/xregi/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/install-nvidia-driver-on-ubuntu-20.04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/install-nvidia-driver-on-ubuntu-20.04/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/install-nvidia-driver-on-ubuntu-20.04/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/configurations/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/configurations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/configurations/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/configurations/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/multilingual-mode/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ar/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-cn"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/multilingual-mode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/multilingual-mode/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/multilingual-mode/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="http://localhost:1313/pt-cn/categories/"
                 />
     <xhtml:link
@@ -48,17 +191,50 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/da-vinci/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/iros-2025/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/dvrk/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-cn"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/dvrk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/dvrk/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/endoscope/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/endoscope/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/endoscope/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/guide/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/categories/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="http://localhost:1313/pt-cn/"
                 />
     <xhtml:link
@@ -67,17 +243,43 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/paper/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-cn/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/robot-learning/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/ros/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-cn"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/ros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/ros/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/posts/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="http://localhost:1313/pt-cn/tags/"
                 />
     <xhtml:link
@@ -87,81 +289,369 @@
                 />
   </url><url>
     <loc>http://localhost:1313/categories/technical/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/categories/technical/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/technical/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/ar/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/ar/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/da-vinci/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/da-vinci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/da-vinci/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/iros-2025/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/iros-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/iros-2025/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/paper/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/categories/paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/paper/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/robot-learning/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/robot-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/robot-learning/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/robotics/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/robotics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/robotics/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/tms/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/tms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/tms/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/cv/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/guide/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/cv/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/icra-2024/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/icra-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/icra-2024/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/tracking/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/tracking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/tracking/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/medical-image/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/medical-image/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/medical-image/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/spie-2024/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/spie-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/spie-2024/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/gpu/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/gpu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/gpu/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/nvidia/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/nvidia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/nvidia/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/ubuntu/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/ubuntu/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/publications/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
     <lastmod>2023-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cv/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/"
+                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-cn/about/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/css/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/github/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/github/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/go/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/html/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/hugo/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/javascript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/javascript/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/markdown/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/tags/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/website/"
+                />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/pt-cn/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/contact/"
+                />
   </url><url>
-    <loc>http://localhost:1313/tags/robotics/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tms/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-cn/contact/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-cn"
+                hreflang="zh"
                 href="http://localhost:1313/pt-cn/authors/"
                 />
     <xhtml:link
@@ -173,7 +663,7 @@
     <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-cn"
+                hreflang="zh"
                 href="http://localhost:1313/pt-cn/series/"
                 />
     <xhtml:link

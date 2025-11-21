@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html lang="pt-cn">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Configurations about Hugo-Coder Theme · 张嘉铭
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; connect-src 'self' https://www.google-analytics.com;">
+
+
+
+
+<meta name="author" content="Jiaming Zhang">
+<meta name="description" content="A concise tutorial on how to build and host a website for free.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Configurations about Hugo-Coder Theme">
+  <meta name="twitter:description" content="A concise tutorial on how to build and host a website for free.">
+
+<meta property="og:url" content="http://localhost:1313/pt-cn/posts/configurations/">
+  <meta property="og:site_name" content="张嘉铭">
+  <meta property="og:title" content="Configurations about Hugo-Coder Theme">
+  <meta property="og:description" content="A concise tutorial on how to build and host a website for free.">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-01-10T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-01-10T00:00:00+00:00">
+    <meta property="article:tag" content="Hugo">
+    <meta property="article:tag" content="Go">
+    <meta property="article:tag" content="Markdown">
+    <meta property="article:tag" content="Html">
+    <meta property="article:tag" content="Css">
+    <meta property="article:tag" content="Javascript">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/pt-cn/posts/configurations/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+  
+    
+    <link rel="stylesheet" href="/css/research.css" media="screen">
+  
+
+  
+    
+    <link rel="stylesheet" href="/css/publications.css" media="screen">
+  
+
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+
+<link href="//fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+
+
+<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<style>
+  body {
+      font-family: 'Raleway';
+  }
+  
+  h1, h2, h3,
+  h4, h5, h6 {
+      font-family: 'Raleway';
+  }
+  </style>
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/pt-cn/">
+      张嘉铭
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/about/">关于</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/posts/">研究</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/contact/">联系</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/publications/">出版物</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/posts/configurations/">EN</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/pt-cn/posts/configurations/">
+              Configurations about Hugo-Coder Theme
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-01-10T00:00:00Z">
+                January 10, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              6-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/pt-cn/categories/technical/">Technical</a>
+      <span class="separator">•</span>
+    <a href="/pt-cn/categories/guide/">Guide</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/pt-cn/tags/hugo/">Hugo</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/go/">Go</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/markdown/">Markdown</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/html/">Html</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/css/">Css</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/javascript/">Javascript</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/github/">Github</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/website/">Website</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 id="configurations">
+  Configurations
+  <a class="heading-link" href="#configurations">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<ul>
+<li><a href="#about-hugo-configurations" >About Hugo Configurations</a>
+<ul>
+<li><a href="#analytics" >Analytics</a>
+<ul>
+<li><a href="#google-analytics" >Google Analytics</a></li>
+<li><a href="#google-tag-manager" >Google Tag Manager</a></li>
+<li><a href="#fathom-analytics" >Fathom Analytics</a></li>
+<li><a href="#plausible-analytics" >Plausible Analytics</a></li>
+<li><a href="#goat-counter" >Goat Counter</a></li>
+<li><a href="#cloudflare" >Cloudflare</a></li>
+<li><a href="#matomo" >Matomo</a></li>
+<li><a href="#application-insights" >Application Insights</a></li>
+</ul>
+</li>
+<li><a href="#commenting-systems" >Commenting Systems</a>
+<ul>
+<li><a href="#disqus" >Disqus</a></li>
+<li><a href="#commento" >Commento</a></li>
+<li><a href="#utterances" >Utterances</a></li>
+<li><a href="#giscus" >Giscus</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#theme-parameters" >Theme Parameters</a>
+<ul>
+<li><a href="#social-icons-configuration" >Social Icons Configuration</a></li>
+<li><a href="#menu-items-configurations" >Menu Items Configurations</a></li>
+<li><a href="#csp" >CSP</a></li>
+</ul>
+</li>
+<li><a href="#complete-example" >Complete Example</a></li>
+<li><a href="#front-matter" >Front Matter</a>
+<ul>
+<li><a href="#posts" >Posts</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="about-hugo-configurations">
+  About Hugo Configurations
+  <a class="heading-link" href="#about-hugo-configurations">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>This theme supports:</p>
+<ul>
+<li>Analytics
+<ul>
+<li><a href="https://developers.google.com/analytics"  class="external-link" target="_blank" rel="noopener">Google Analytics</a></li>
+<li><a href="https://developers.google.com/tag-manager"  class="external-link" target="_blank" rel="noopener">Google Tag Manager</a></li>
+<li><a href="https://usefathom.com/"  class="external-link" target="_blank" rel="noopener">Fathom Analytics</a></li>
+<li><a href="https://plausible.io/"  class="external-link" target="_blank" rel="noopener">Plausible Analytics</a></li>
+<li><a href="https://www.goatcounter.com/"  class="external-link" target="_blank" rel="noopener">Goat Counter</a></li>
+<li><a href="https://www.cloudflare.com/analytics/"  class="external-link" target="_blank" rel="noopener">Cloudflare</a></li>
+<li><a href="https://matomo.org/"  class="external-link" target="_blank" rel="noopener">Matomo</a></li>
+<li><a href="https://azure.com/"  class="external-link" target="_blank" rel="noopener">Application Insights</a></li>
+</ul>
+</li>
+<li>Commenting Systems
+<ul>
+<li><a href="https://disqus.com/"  class="external-link" target="_blank" rel="noopener">Disqus</a></li>
+<li><a href="https://commento.io/"  class="external-link" target="_blank" rel="noopener">Commento</a></li>
+<li><a href="https://utteranc.es/"  class="external-link" target="_blank" rel="noopener">Utterances</a></li>
+<li><a href="https://giscus.app/"  class="external-link" target="_blank" rel="noopener">Giscus</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="analytics">
+  Analytics
+  <a class="heading-link" href="#analytics">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<h4 id="google-analytics">
+  Google Analytics
+  <a class="heading-link" href="#google-analytics">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>Follow <a href="https://gohugo.io/templates/internal/#configure-google-analytics"  class="external-link" target="_blank" rel="noopener">these steps</a>.</p>
+<h4 id="google-tag-manager">
+  Google Tag Manager
+  <a class="heading-link" href="#google-tag-manager">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.googleTagManager]
+</span></span><span style="display:flex;"><span>    id = <span style="font-style:italic">&#34;gid&#34;</span>
+</span></span></code></pre></div><h4 id="fathom-analytics">
+  Fathom Analytics
+  <a class="heading-link" href="#fathom-analytics">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.fathomAnalytics]
+</span></span><span style="display:flex;"><span>  siteID = <span style="font-style:italic">&#34;ABCDE&#34;</span>
+</span></span><span style="display:flex;"><span>  serverURL = <span style="font-style:italic">&#34;cdn.usefathom.com&#34;</span> <span style="font-style:italic"># (optionnal) Replace if you use a custom domain</span>
+</span></span></code></pre></div><h4 id="plausible-analytics">
+  Plausible Analytics
+  <a class="heading-link" href="#plausible-analytics">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.plausibleAnalytics]
+</span></span><span style="display:flex;"><span>  domain = <span style="font-style:italic">&#34;example.com&#34;</span>
+</span></span><span style="display:flex;"><span>  serverURL = <span style="font-style:italic">&#34;plausible.io&#34;</span> <span style="font-style:italic"># (optionnal) Replace if you use a custom domain</span>
+</span></span></code></pre></div><h4 id="goat-counter">
+  Goat Counter
+  <a class="heading-link" href="#goat-counter">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.goatCounter]
+</span></span><span style="display:flex;"><span>  code = <span style="font-style:italic">&#34;code&#34;</span> <span style="font-style:italic"># You will access your account at https://[code].goatcounter.com</span>
+</span></span></code></pre></div><h4 id="cloudflare">
+  Cloudflare
+  <a class="heading-link" href="#cloudflare">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.cloudflare]
+</span></span><span style="display:flex;"><span>    token = <span style="font-style:italic">&#34;token&#34;</span>
+</span></span></code></pre></div><h4 id="matomo">
+  Matomo
+  <a class="heading-link" href="#matomo">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.matomo]
+</span></span><span style="display:flex;"><span>    siteID = <span style="font-style:italic">&#34;ABCDE&#34;</span>
+</span></span><span style="display:flex;"><span>    serverURL = <span style="font-style:italic">&#34;analytics.example.com&#34;</span>
+</span></span></code></pre></div><h4 id="application-insights">
+  Application Insights
+  <a class="heading-link" href="#application-insights">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.applicationInsights]
+</span></span><span style="display:flex;"><span>    connectionString = <span style="font-style:italic">&#34;connectionstring&#34;</span> <span style="font-style:italic"># https://docs.microsoft.com/en-us/azure/azure-monitor/app/sdk-connection-string</span>
+</span></span></code></pre></div><h3 id="commenting-systems">
+  Commenting Systems
+  <a class="heading-link" href="#commenting-systems">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Comments are displayed within post pages, but can be disabled with <code>disableComments</code> front-matter.</p>
+<h4 id="disqus">
+  Disqus
+  <a class="heading-link" href="#disqus">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>Follow <a href="https://gohugo.io/content-management/comments/#configure-disqus"  class="external-link" target="_blank" rel="noopener">these steps</a>.</p>
+<h4 id="commento">
+  Commento
+  <a class="heading-link" href="#commento">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params]
+</span></span><span style="display:flex;"><span>  commentoURL = <span style="font-style:italic">&#34;https://cdn.commento.io&#34;</span> <span style="font-style:italic"># Replace if you use a custom domain</span>
+</span></span></code></pre></div><h4 id="utterances">
+  Utterances
+  <a class="heading-link" href="#utterances">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.utterances]
+</span></span><span style="display:flex;"><span>  repo = <span style="font-style:italic">&#34;&#34;</span> <span style="font-style:italic"># https://utteranc.es/#heading-repository</span>
+</span></span><span style="display:flex;"><span>  issueTerm = <span style="font-style:italic">&#34;&#34;</span> <span style="font-style:italic"># https://utteranc.es/#heading-mapping</span>
+</span></span><span style="display:flex;"><span>  label = <span style="font-style:italic">&#34;&#34;</span> <span style="font-style:italic"># https://utteranc.es/#heading-issue-label</span>
+</span></span><span style="display:flex;"><span>  theme = <span style="font-style:italic">&#34;&#34;</span> <span style="font-style:italic"># https://utteranc.es/#heading-theme</span>
+</span></span></code></pre></div><h4 id="giscus">
+  Giscus
+  <a class="heading-link" href="#giscus">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.giscus] <span style="font-style:italic"># https://giscus.app</span>
+</span></span><span style="display:flex;"><span>  repo = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  repoID = <span style="font-style:italic">&#34;&#34;</span> 
+</span></span><span style="display:flex;"><span>  category = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  categoryID = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  mapping = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  term = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  strict = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  reactionsEnabled = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  emitMetadata = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  inputPosition = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  theme = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  lang = <span style="font-style:italic">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>  loading = <span style="font-style:italic">&#34;&#34;</span>
+</span></span></code></pre></div><h2 id="theme-parameters">
+  Theme Parameters
+  <a class="heading-link" href="#theme-parameters">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>These are all the parameters used by <code>hugo-coder</code> theme.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Name</th>
+          <th>Type</th>
+          <th>Required</th>
+          <th>Description</th>
+          <th>Default</th>
+          <th>Example</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>author</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>Author name.</td>
+          <td></td>
+          <td><code>&quot;John Doe&quot;</code></td>
+      </tr>
+      <tr>
+          <td>info</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>An headline, job title or similar.</td>
+          <td></td>
+          <td><code>&quot;Full Stack Developer&quot;</code></td>
+      </tr>
+      <tr>
+          <td>description</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>Description of the site.</td>
+          <td></td>
+          <td><code>&quot;John Doe's personal website&quot;</code></td>
+      </tr>
+      <tr>
+          <td>keywords</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>Site keywords.</td>
+          <td></td>
+          <td><code>&quot;blog,developer,personal&quot;</code></td>
+      </tr>
+      <tr>
+          <td>avatarURL</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Photo of the author.</td>
+          <td></td>
+          <td><code>&quot;images/avatar.jpg&quot;</code></td>
+      </tr>
+      <tr>
+          <td>gravatar</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Gravatar photo of the author</td>
+          <td></td>
+          <td><code>&quot;john.doe@example.com&quot;</code></td>
+      </tr>
+      <tr>
+          <td>favicon_32</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Custom path to a 32x32 favicon.</td>
+          <td><code>&quot;/img/favicon-32x32.png&quot;</code></td>
+          <td><code>&quot;/img/favicon-32x32.png&quot;</code></td>
+      </tr>
+      <tr>
+          <td>favicon_16</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Custom path to a 16x16 favicon.</td>
+          <td><code>&quot;/img/favicon-16x16.png&quot;</code></td>
+          <td><code>&quot;/img/favicon-16x16.png&quot;</code></td>
+      </tr>
+      <tr>
+          <td>touchIcon</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Custom path to a touch-icon</td>
+          <td><code>&quot;/images/apple-touch-icon.png&quot;</code></td>
+          <td><code>&quot;/images/apple-touch-icon.png&quot;</code></td>
+      </tr>
+      <tr>
+          <td>since</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Date shown in the footer before now year</td>
+          <td></td>
+          <td><code>&quot;2020&quot;</code></td>
+      </tr>
+      <tr>
+          <td>maxSeeAlsoItems</td>
+          <td>number</td>
+          <td>No</td>
+          <td>Series see also post count</td>
+          <td><code>5</code></td>
+          <td><code>10</code></td>
+      </tr>
+      <tr>
+          <td>commit</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Show the last git commit in the footer</td>
+          <td></td>
+          <td><code>&quot;https://github.com/luizdepra/hugo-coder/tree/&quot;</code></td>
+      </tr>
+      <tr>
+          <td>rtl</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>Enable the Right To Left mode.</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+      <tr>
+          <td>math</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>Enable MathJax Module and add JS into your site.</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+      <tr>
+          <td>katex</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>Enable katex for all content types.</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+      <tr>
+          <td>colorScheme</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Specify light/dark colorscheme</td>
+          <td><code>&quot;auto&quot;</code></td>
+          <td><code>&quot;auto&quot;</code> or <code>&quot;light&quot;</code> or <code>&quot;dark&quot;</code></td>
+      </tr>
+      <tr>
+          <td>hideColorSchemeToggle</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>If true, hides the color sheme toggle</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+      <tr>
+          <td>customCSS</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add extra CSS files to the website.</td>
+          <td>[]</td>
+          <td><code>[&quot;css/extra-style.css&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>customSCSS</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add extra SCSS files to the website.</td>
+          <td>[]</td>
+          <td><code>[&quot;scss/extra-style.scss&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>customJS</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add extra JS files to the website.</td>
+          <td>[]</td>
+          <td><code>[&quot;js/extra-script.js&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>customRemoteJS</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add extra remote JS files to the website.</td>
+          <td>[]</td>
+          <td><code>[&quot;https://www.example.com/file.js&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>enableTwemoji</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>Adds support for Twemoji</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="social-icons-configuration">
+  Social Icons Configuration
+  <a class="heading-link" href="#social-icons-configuration">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Social Icons are optional. To use them you will need to set at least all the following required parameters for each icon.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Configuration</th>
+          <th>Type</th>
+          <th>Required</th>
+          <th>Description</th>
+          <th>Example</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>name</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>Icon name.</td>
+          <td><code>&quot;Github&quot;</code></td>
+      </tr>
+      <tr>
+          <td>icon</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>ForkAwesome icon classes.</td>
+          <td><code>&quot;fa fa-github&quot;</code></td>
+      </tr>
+      <tr>
+          <td>weight</td>
+          <td>int</td>
+          <td>Yes</td>
+          <td>Icon order.</td>
+          <td><code>1</code></td>
+      </tr>
+      <tr>
+          <td>url</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>URL to redirect.</td>
+          <td><code>&quot;https://github.com/johndoe/&quot;</code></td>
+      </tr>
+  </tbody>
+</table>
+<p>An example:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Github&#34;</span>
+</span></span><span style="display:flex;"><span>  icon = <span style="font-style:italic">&#34;fa fa-github fa-2x&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 1
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;https://github.com/johndoe/&#34;</span>
+</span></span><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Gitlab&#34;</span>
+</span></span><span style="display:flex;"><span>  icon = <span style="font-style:italic">&#34;fa fa-gitlab fa-2x&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 2
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;https://gitlab.com/johndoe/&#34;</span>
+</span></span><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Twitter&#34;</span>
+</span></span><span style="display:flex;"><span>  icon = <span style="font-style:italic">&#34;fa fa-twitter fa-2x&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 3
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;https://twitter.com/johndoe/&#34;</span>
+</span></span></code></pre></div><h3 id="menu-items-configurations">
+  Menu Items Configurations
+  <a class="heading-link" href="#menu-items-configurations">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Menu Items are optional. To use them you will need to set all the following required parameters for each icon.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Configuration</th>
+          <th>Type</th>
+          <th>Required</th>
+          <th>Description</th>
+          <th>Example</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>name</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>Menu Item name.</td>
+          <td><code>&quot;Posts&quot;</code></td>
+      </tr>
+      <tr>
+          <td>weight</td>
+          <td>int</td>
+          <td>Yes</td>
+          <td>Menu Item order.</td>
+          <td><code>1</code></td>
+      </tr>
+      <tr>
+          <td>url</td>
+          <td>string</td>
+          <td>Yes</td>
+          <td>URL to redirect.</td>
+          <td><code>&quot;/posts/&quot;</code></td>
+      </tr>
+      <tr>
+          <td>target</td>
+          <td>string</td>
+          <td>No</td>
+          <td>URL target attribute.</td>
+          <td><code>&quot;_blank&quot;</code></td>
+      </tr>
+      <tr>
+          <td>rel</td>
+          <td>string</td>
+          <td>No</td>
+          <td>URL rel attribute.</td>
+          <td><code>&quot;alternate&quot;</code></td>
+      </tr>
+      <tr>
+          <td>type</td>
+          <td>string</td>
+          <td>No</td>
+          <td>URL type attribute.</td>
+          <td><code>&quot;application/rss+xml&quot;</code></td>
+      </tr>
+  </tbody>
+</table>
+<p>An example:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[menu.main]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Blog&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 1
+</span></span><span style="display:flex;"><span>  url  = <span style="font-style:italic">&#34;posts/&#34;</span>
+</span></span><span style="display:flex;"><span>[[menu.main]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;About&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 2
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;about/&#34;</span>
+</span></span></code></pre></div><h3 id="csp">
+  CSP
+  <a class="heading-link" href="#csp">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>CSP stands for <a href="https://developers.google.com/web/fundamentals/security/csp"  class="external-link" target="_blank" rel="noopener">Content Security Policy</a>. These configurations are optional. To use them you will need to set all the following required parameters. See <a href="https://developers.google.com/web/fundamentals/security/csp#policy_applies_to_a_wide_variety_of_resources"  class="external-link" target="_blank" rel="noopener">here</a> for reference.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Configuration</th>
+          <th>Type</th>
+          <th>Required</th>
+          <th>Description</th>
+          <th>Example</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>childsrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>fontsrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>formaction</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>framesrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>imgsrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>objectsrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>stylesrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>scriptsrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>prefetchsrc</td>
+          <td>string list</td>
+          <td>Yes</td>
+          <td></td>
+          <td><code>[&quot;'self'&quot;]</code></td>
+      </tr>
+  </tbody>
+</table>
+<p>An example:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[params.csp]
+</span></span><span style="display:flex;"><span>  childsrc = [<span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>]
+</span></span><span style="display:flex;"><span>  fontsrc = [
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;https://fonts.gstatic.com&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;https://cdn.jsdelivr.net/&#34;</span>
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>  formaction = [<span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>]
+</span></span><span style="display:flex;"><span>  framesrc = [<span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>]
+</span></span><span style="display:flex;"><span>  imgsrc = [<span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>]
+</span></span><span style="display:flex;"><span>  objectsrc = [<span style="font-style:italic">&#34;&#39;none&#39;&#34;</span>]
+</span></span><span style="display:flex;"><span>  stylesrc = [
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;&#39;unsafe-inline&#39;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;https://fonts.googleapis.com/&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;https://cdn.jsdelivr.net/&#34;</span>
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>  scriptsrc = [
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;&#39;unsafe-inline&#39;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-style:italic">&#34;https://www.google-analytics.com&#34;</span>
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>  prefetchsrc = [<span style="font-style:italic">&#34;&#39;self&#39;&#34;</span>]
+</span></span></code></pre></div><h2 id="complete-example">
+  Complete Example
+  <a class="heading-link" href="#complete-example">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>This is a complete configuration example with some recommended values.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>baseurl = <span style="font-style:italic">&#34;http://www.example.com&#34;</span>
+</span></span><span style="display:flex;"><span>title = <span style="font-style:italic">&#34;johndoe&#34;</span>
+</span></span><span style="display:flex;"><span>theme = <span style="font-style:italic">&#34;hugo-coder&#34;</span>
+</span></span><span style="display:flex;"><span>languagecode = <span style="font-style:italic">&#34;en&#34;</span>
+</span></span><span style="display:flex;"><span>defaultcontentlanguage = <span style="font-style:italic">&#34;en&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>paginate = 20
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>pygmentsstyle = <span style="font-style:italic">&#34;bw&#34;</span>
+</span></span><span style="display:flex;"><span>pygmentscodefences = <span style="font-weight:bold">true</span>
+</span></span><span style="display:flex;"><span>pygmentscodefencesguesssyntax = <span style="font-weight:bold">true</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>disqusShortname = <span style="font-style:italic">&#34;yourdiscussshortname&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[params]
+</span></span><span style="display:flex;"><span>  author = <span style="font-style:italic">&#34;John Doe&#34;</span>
+</span></span><span style="display:flex;"><span>  info = <span style="font-style:italic">&#34;Full Stack DevOps and Magician&#34;</span>
+</span></span><span style="display:flex;"><span>  description = <span style="font-style:italic">&#34;John Doe&#39;s personal website&#34;</span>
+</span></span><span style="display:flex;"><span>  keywords = <span style="font-style:italic">&#34;blog,developer,personal&#34;</span>
+</span></span><span style="display:flex;"><span>  avatarurl = <span style="font-style:italic">&#34;images/avatar.jpg&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="font-style:italic">#gravatar = &#34;john.doe@example.com&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  favicon_32 = <span style="font-style:italic">&#34;/img/favicon-32x32.png&#34;</span>
+</span></span><span style="display:flex;"><span>  favicon_16 = <span style="font-style:italic">&#34;/img/favicon-16x16.png&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  since = 2019
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  enableTwemoji = <span style="font-weight:bold">true</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  colorScheme = <span style="font-style:italic">&#34;auto&#34;</span>
+</span></span><span style="display:flex;"><span>  hidecolorschemetoggle = <span style="font-weight:bold">false</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  customCSS = [<span style="font-style:italic">&#34;css/custom.css&#34;</span>]
+</span></span><span style="display:flex;"><span>  customSCSS = [<span style="font-style:italic">&#34;scss/custom.scss&#34;</span>]
+</span></span><span style="display:flex;"><span>  customJS = [<span style="font-style:italic">&#34;js/custom.js&#34;</span>]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[taxonomies]
+</span></span><span style="display:flex;"><span>  category = <span style="font-style:italic">&#34;categories&#34;</span>
+</span></span><span style="display:flex;"><span>  series = <span style="font-style:italic">&#34;series&#34;</span>
+</span></span><span style="display:flex;"><span>  tag = <span style="font-style:italic">&#34;tags&#34;</span>
+</span></span><span style="display:flex;"><span>  author = <span style="font-style:italic">&#34;authors&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="font-style:italic"># Social links</span>
+</span></span><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Github&#34;</span>
+</span></span><span style="display:flex;"><span>  icon = <span style="font-style:italic">&#34;fa fa-github fa-2x&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 1
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;https://github.com/johndoe/&#34;</span>
+</span></span><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Gitlab&#34;</span>
+</span></span><span style="display:flex;"><span>  icon = <span style="font-style:italic">&#34;fa fa-gitlab fa-2x&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 2
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;https://gitlab.com/johndoe/&#34;</span>
+</span></span><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Twitter&#34;</span>
+</span></span><span style="display:flex;"><span>  icon = <span style="font-style:italic">&#34;fa fa-twitter fa-2x&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 3
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;https://twitter.com/johndoe/&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="font-style:italic"># Menu links</span>
+</span></span><span style="display:flex;"><span>[[menu.main]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;Blog&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 1
+</span></span><span style="display:flex;"><span>  url  = <span style="font-style:italic">&#34;posts/&#34;</span>
+</span></span><span style="display:flex;"><span>[[menu.main]]
+</span></span><span style="display:flex;"><span>  name = <span style="font-style:italic">&#34;About&#34;</span>
+</span></span><span style="display:flex;"><span>  weight = 2
+</span></span><span style="display:flex;"><span>  url = <span style="font-style:italic">&#34;about/&#34;</span>
+</span></span></code></pre></div><h2 id="front-matter">
+  Front Matter
+  <a class="heading-link" href="#front-matter">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Hugo documentation: <a href="https://gohugo.io/content-management/front-matter"  class="external-link" target="_blank" rel="noopener">https://gohugo.io/content-management/front-matter</a></p>
+<p>This theme includes one content type:</p>
+<ul>
+<li><a href="#posts" >Posts</a>, useful to display blog posts</li>
+</ul>
+<h3 id="posts">
+  Posts
+  <a class="heading-link" href="#posts">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>These are the front matter variables used by <code>hugo-coder</code> theme.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Name</th>
+          <th>Type</th>
+          <th>Required</th>
+          <th>Description</th>
+          <th>Default</th>
+          <th>Example</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>tags</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add tag(s) to this post.</td>
+          <td></td>
+          <td><code>[&quot;Hugo&quot;, &quot;Go&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>categories</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add categorie(s) to this post.</td>
+          <td></td>
+          <td><code>[&quot;Hugo&quot;, &quot;Go&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>series</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add series to this post (used by OpenGraph).</td>
+          <td></td>
+          <td><code>[&quot;Theme Demo&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>author</td>
+          <td>list</td>
+          <td>No</td>
+          <td>Add author to this post.</td>
+          <td></td>
+          <td><code>[&quot;John Doe&quot;]</code></td>
+      </tr>
+      <tr>
+          <td>externalLink</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Link to an external post.</td>
+          <td></td>
+          <td><code>&quot;https://github.com/luizdepra/hugo-coder/wiki&quot;</code></td>
+      </tr>
+      <tr>
+          <td>featuredImage</td>
+          <td>string</td>
+          <td>No</td>
+          <td>Link/path to add an image below post metadata.</td>
+          <td></td>
+          <td><code>&quot;https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png&quot;</code></td>
+      </tr>
+      <tr>
+          <td>math</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>If true, MathJax is enabled only for this post.</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+      <tr>
+          <td>katex</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>If true, katex is enabled only for this post.</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+      <tr>
+          <td>disableComments</td>
+          <td>bool</td>
+          <td>No</td>
+          <td>If true, comments are disabled.</td>
+          <td><code>false</code></td>
+          <td><code>true</code> or <code>false</code></td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>&ldquo;tags&rdquo;, &ldquo;categories&rdquo;, &ldquo;series&rdquo; and &ldquo;authors&rdquo; are taxonomies defined in the <code>config.toml</code> file.</p>
+</blockquote>
+<h1 id="enable-html-in-markdown-pages">
+  Enable HTML in Markdown Pages
+  <a class="heading-link" href="#enable-html-in-markdown-pages">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p><a href="https://gohugo.io/getting-started/configuration-markup/#goldmark"  class="external-link" target="_blank" rel="noopener">https://gohugo.io/getting-started/configuration-markup/#goldmark</a></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+    <section class="container">
+    <small>
+      ©
+      
+        2022 -
+      
+      2025
+       Jiaming Zhang 
+      ·
+      
+      Powered by <a href="https://gohugo.io/">Hugo</a> 
+      
+      
+    </small>
+    </section>
+  </footer>
+  
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+</html>

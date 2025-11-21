@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="pt-cn">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale · 张嘉铭
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/; connect-src 'self' https://www.google-analytics.com;">
+
+
+
+
+<meta name="author" content="Jiaming Zhang">
+<meta name="description" content="
+  
+    
+    Your browser does not support the video tag.
+  
+
+Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale">
+  <meta name="twitter:description" content="Your browser does not support the video tag. Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
+
+<meta property="og:url" content="http://localhost:1313/pt-cn/posts/dart-vinci/">
+  <meta property="og:site_name" content="张嘉铭">
+  <meta property="og:title" content="dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale">
+  <meta property="og:description" content="Your browser does not support the video tag. Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-03-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-03-01T00:00:00+00:00">
+    <meta property="article:tag" content="IROS 2025">
+    <meta property="article:tag" content="AR">
+    <meta property="article:tag" content="Da Vinci">
+    <meta property="article:tag" content="Robot Learning">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/pt-cn/posts/dart-vinci/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+  
+    
+    <link rel="stylesheet" href="/css/research.css" media="screen">
+  
+
+  
+    
+    <link rel="stylesheet" href="/css/publications.css" media="screen">
+  
+
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+
+<link href="//fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+
+
+<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<style>
+  body {
+      font-family: 'Raleway';
+  }
+  
+  h1, h2, h3,
+  h4, h5, h6 {
+      font-family: 'Raleway';
+  }
+  </style>
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/pt-cn/">
+      张嘉铭
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/about/">关于</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/posts/">研究</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/contact/">联系</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/pt-cn/publications/">出版物</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/posts/dart-vinci/">EN</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/pt-cn/posts/dart-vinci/">
+              dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2025-03-01T00:00:00Z">
+                March 1, 2025
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              One-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/pt-cn/categories/technical/">Technical</a>
+      <span class="separator">•</span>
+    <a href="/pt-cn/categories/paper/">Paper</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/pt-cn/tags/iros-2025/">IROS 2025</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/ar/">AR</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/da-vinci/">Da Vinci</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/pt-cn/tags/robot-learning/">Robot Learning</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <video autoplay loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <source src="/images/dart-vinci.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<p>Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.</p>
+<p>In this work, we introduce <em>dARt Vinci</em>, a scalable data collection platform for robot learning in surgical settings. The system uses AR hand tracking and a high-fidelity physics engine to capture subtle maneuvers in primitive surgical tasks: By eliminating the need for a physical robot setup and providing flexibility in terms of time, space, and hardware resources-such as multiview sensors and actuators-specialized simulation is a viable alternative. At the same time, AR allows the robot data collection to be more egocentric, supported by its body tracking and content overlaying capabilities. Our user study confirms the proposed system&rsquo;s efficiency and usability, where we use widely-used primitive tasks for training teleoperation with da Vinci surgical robots.</p>
+<p>We believe that dARt Vinci can be a valuable tool for researchers to collect data at scale, enabling the development of more robust and generalizable robot learning algorithms.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+    <section class="container">
+    <small>
+      ©
+      
+        2022 -
+      
+      2025
+       Jiaming Zhang 
+      ·
+      
+      Powered by <a href="https://gohugo.io/">Hugo</a> 
+      
+      
+    </small>
+    </section>
+  </footer>
+  
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+</html>

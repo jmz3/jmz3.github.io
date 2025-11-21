@@ -1,0 +1,130 @@
+/* Styling for the curated research list */
+.research .research-intro {
+  font-size: 1.7rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.research .research-items {
+  list-style: none;
+  margin: 3.2rem 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.research .research-items--software,
+.research .research-items--blog {
+  margin-top: 2rem;
+}
+
+.research .research-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.6rem;
+  padding: 1.6rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+.colorscheme-dark .research .research-item {
+  border-color: rgba(255, 255, 255, 0.18);
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+.research .research-item__index {
+  font-size: 2rem;
+  font-weight: 700;
+  min-width: 3.4rem;
+}
+
+.research .research-item__meta {
+  font-size: 1.3rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.colorscheme-dark .research .research-item__meta {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.research .research-item__title {
+  margin: 0.5rem 0;
+}
+
+.research .research-item__subtitle {
+  font-weight: 600;
+}
+
+.research .research-item__summary {
+  margin: 1rem 0 1.4rem;
+  font-size: 1.7rem;
+  line-height: 1.6;
+}
+
+.research .research-item__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.research .research-item__link-badge {
+  padding: 0.6rem 1.2rem;
+  border-radius: 0.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  letter-spacing: 0.08em;
+  display: inline-flex;
+  gap: 0.6rem;
+}
+
+.colorscheme-dark .research .research-item__link-badge {
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.research .research-item__link {
+  font-weight: 600;
+  display: inline-flex;
+  gap: 0.4rem;
+}
+
+.research .research-divider {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  margin: 3.2rem 0 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.colorscheme-dark .research .research-divider {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.research .research-divider__line {
+  flex: 1;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.colorscheme-dark .research .research-divider__line {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.research .research-divider__label {
+  white-space: nowrap;
+  font-size: 2rem;
+  letter-spacing: 0.32em;
+}

@@ -22,12 +22,6 @@
     Your browser does not support the video tag.
   
 
-
-  [PDF]
-  [Arxiv]
-  [Website]
-  [GitHub]
-
 Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
 <meta name="keywords" content="blog,developer,personal">
 
@@ -35,12 +29,12 @@ Data scarcity has long been an issue in the robot learning community. Particular
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale">
-  <meta name="twitter:description" content="Your browser does not support the video tag. [PDF] [Arxiv] [Website] [GitHub] Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
+  <meta name="twitter:description" content="Your browser does not support the video tag. Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
 
 <meta property="og:url" content="http://localhost:1313/posts/dart-vinci/">
   <meta property="og:site_name" content="Jiaming Zhang">
   <meta property="og:title" content="dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale">
-  <meta property="og:description" content="Your browser does not support the video tag. [PDF] [Arxiv] [Website] [GitHub] Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
+  <meta property="og:description" content="Your browser does not support the video tag. Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -71,9 +65,25 @@ Data scarcity has long been an issue in the robot learning community. Particular
 
 
 
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
 
 
  
+  
+    
+    <link rel="stylesheet" href="/css/research.css" media="screen">
+  
+
+  
+    
+    <link rel="stylesheet" href="/css/publications.css" media="screen">
+  
+
 
 
 
@@ -124,8 +134,16 @@ Data scarcity has long been an issue in the robot learning community. Particular
 
 
 
-<body class="preload-transitions colorscheme-light">
+
+
+<body class="preload-transitions colorscheme-auto">
   
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
 
   <main class="wrapper">
     <nav class="navigation">
@@ -152,10 +170,6 @@ Data scarcity has long been an issue in the robot learning community. Particular
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="/cv/">CV</a>
-            </li>
-          
-            <li class="navigation-item">
               <a class="navigation-link " href="/publications/">Publications</a>
             </li>
           
@@ -169,8 +183,6 @@ Data scarcity has long been an issue in the robot learning community. Particular
           
           
             
-          
-            
               
                 <li class="navigation-item menu-separator">
                   <span>|</span>
@@ -178,7 +190,7 @@ Data scarcity has long been an issue in the robot learning community. Particular
                 
               
               <li class="navigation-item">
-                <a href="/pt-cn/">Chinese</a>
+                <a href="/pt-cn/posts/dart-vinci/">Chinese</a>
               </li>
             
           
@@ -249,12 +261,6 @@ Data scarcity has long been an issue in the robot learning community. Particular
     <source src="/images/dart-vinci.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
-<div style="margin-top: 1rem; text-align: center;">
-  <a href="/pdfs/dart-vinci-paper.pdf" target="_blank">[PDF]</a>
-  <a href="https://arxiv.org/abs/your-paper-id" target="_blank">[Arxiv]</a>
-  <a href="https://your-project-website.com" target="_blank">[Website]</a>
-  <a href="https://github.com/your-github-repo" target="_blank">[GitHub]</a>
 </div>
 <p>Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.</p>
 <p>In this work, we introduce <em>dARt Vinci</em>, a scalable data collection platform for robot learning in surgical settings. The system uses AR hand tracking and a high-fidelity physics engine to capture subtle maneuvers in primitive surgical tasks: By eliminating the need for a physical robot setup and providing flexibility in terms of time, space, and hardware resources-such as multiview sensors and actuators-specialized simulation is a viable alternative. At the same time, AR allows the robot data collection to be more egocentric, supported by its body tracking and content overlaying capabilities. Our user study confirms the proposed system&rsquo;s efficiency and usability, where we use widely-used primitive tasks for training teleoperation with da Vinci surgical robots.</p>

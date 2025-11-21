@@ -1,0 +1,53 @@
+/* Publications page specific tweaks */
+.publications-page {
+  font-size: 1.6rem;
+  line-height: 1.65;
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.publications-page h3 {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  font-size: 2rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  margin: 3.2rem 0 1.4rem;
+}
+
+.publications-page h3::before,
+.publications-page h3::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.colorscheme-dark .publications-page h3::before,
+.colorscheme-dark .publications-page h3::after {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.publications-page h3 {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.colorscheme-dark .publications-page h3 {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.publications-page p,
+.publications-page li {
+  margin-bottom: 1.2rem;
+}
+
+.publications-page ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publications-page em {
+  font-style: italic;
+  color: inherit;
+}

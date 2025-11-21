@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nvidia on 张嘉铭</title>
+    <link>http://localhost:1313/pt-cn/tags/nvidia/</link>
+    <description>Recent content in Nvidia on 张嘉铭</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-cn/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Nvidia Driver on Ubuntu 20.04</title>
+      <link>http://localhost:1313/pt-cn/posts/install-nvidia-driver-on-ubuntu-20.04/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-cn/posts/install-nvidia-driver-on-ubuntu-20.04/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Environment&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;u&gt;Hardware&lt;/u&gt;: Lenovo y9000p 2019 - intel i7-9750H&lt;br&gt;&#xA;&lt;u&gt;OS&lt;/u&gt;: Ubuntu 20.04 LTS Dual Boot&lt;br&gt;&#xA;&lt;u&gt;Kernel version&lt;/u&gt;: Linux 5.13.0-39-generic&lt;br&gt;&#xA;&lt;u&gt;GPU model&lt;/u&gt;: GTX 1660 Ti 6GB&lt;br&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;install-nvidia-drivers-through-gui&#34;&gt;&#xA;  Install Nvidia Drivers through GUI&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#install-nvidia-drivers-through-gui&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/images/test.png&#34; alt=&#34;test img&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;choose the right tested driver version via Software &amp;amp; Updates - Additional Drivers; then click apply changes&lt;/p&gt;&#xA;&lt;p&gt;wait for it to download and configure the drivers.&lt;/p&gt;&#xA;&lt;p&gt;After that, a window will prompt out to tell you you need to set up a key for secure boot. Type in whatever you want, just try to record/remember what you just type.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
