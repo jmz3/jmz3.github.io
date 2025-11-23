@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jiaming Zhang</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://zhang-jiaming.com/tags/</link>
     <description>Recent content in Tags on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhang-jiaming.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DVRK</title>
-      <link>http://localhost:1313/tags/dvrk/</link>
+      <link>https://zhang-jiaming.com/tags/dvrk/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dvrk/</guid>
+      <guid>https://zhang-jiaming.com/tags/dvrk/</guid>
       <description></description>
     </item>
     <item>
       <title>Endoscope</title>
-      <link>http://localhost:1313/tags/endoscope/</link>
+      <link>https://zhang-jiaming.com/tags/endoscope/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/endoscope/</guid>
+      <guid>https://zhang-jiaming.com/tags/endoscope/</guid>
       <description></description>
     </item>
     <item>
       <title>ROS</title>
-      <link>http://localhost:1313/tags/ros/</link>
+      <link>https://zhang-jiaming.com/tags/ros/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ros/</guid>
+      <guid>https://zhang-jiaming.com/tags/ros/</guid>
       <description></description>
     </item>
     <item>
       <title>AR</title>
-      <link>http://localhost:1313/tags/ar/</link>
+      <link>https://zhang-jiaming.com/tags/ar/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ar/</guid>
+      <guid>https://zhang-jiaming.com/tags/ar/</guid>
       <description></description>
     </item>
     <item>
       <title>Da Vinci</title>
-      <link>http://localhost:1313/tags/da-vinci/</link>
+      <link>https://zhang-jiaming.com/tags/da-vinci/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/da-vinci/</guid>
+      <guid>https://zhang-jiaming.com/tags/da-vinci/</guid>
       <description></description>
     </item>
     <item>
       <title>IROS 2025</title>
-      <link>http://localhost:1313/tags/iros-2025/</link>
+      <link>https://zhang-jiaming.com/tags/iros-2025/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iros-2025/</guid>
+      <guid>https://zhang-jiaming.com/tags/iros-2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Robot Learning</title>
-      <link>http://localhost:1313/tags/robot-learning/</link>
+      <link>https://zhang-jiaming.com/tags/robot-learning/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/robot-learning/</guid>
+      <guid>https://zhang-jiaming.com/tags/robot-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Robotics</title>
-      <link>http://localhost:1313/tags/robotics/</link>
+      <link>https://zhang-jiaming.com/tags/robotics/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/robotics/</guid>
+      <guid>https://zhang-jiaming.com/tags/robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>TMS</title>
-      <link>http://localhost:1313/tags/tms/</link>
+      <link>https://zhang-jiaming.com/tags/tms/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tms/</guid>
+      <guid>https://zhang-jiaming.com/tags/tms/</guid>
       <description></description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/tags/cv/</link>
+      <link>https://zhang-jiaming.com/tags/cv/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cv/</guid>
+      <guid>https://zhang-jiaming.com/tags/cv/</guid>
       <description></description>
     </item>
     <item>
       <title>ICRA 2024</title>
-      <link>http://localhost:1313/tags/icra-2024/</link>
+      <link>https://zhang-jiaming.com/tags/icra-2024/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/icra-2024/</guid>
+      <guid>https://zhang-jiaming.com/tags/icra-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Tracking</title>
-      <link>http://localhost:1313/tags/tracking/</link>
+      <link>https://zhang-jiaming.com/tags/tracking/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tracking/</guid>
+      <guid>https://zhang-jiaming.com/tags/tracking/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Image</title>
-      <link>http://localhost:1313/tags/medical-image/</link>
+      <link>https://zhang-jiaming.com/tags/medical-image/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/medical-image/</guid>
+      <guid>https://zhang-jiaming.com/tags/medical-image/</guid>
       <description></description>
     </item>
     <item>
       <title>SPIE 2024</title>
-      <link>http://localhost:1313/tags/spie-2024/</link>
+      <link>https://zhang-jiaming.com/tags/spie-2024/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spie-2024/</guid>
+      <guid>https://zhang-jiaming.com/tags/spie-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>GPU</title>
-      <link>http://localhost:1313/tags/gpu/</link>
+      <link>https://zhang-jiaming.com/tags/gpu/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gpu/</guid>
+      <guid>https://zhang-jiaming.com/tags/gpu/</guid>
       <description></description>
     </item>
     <item>
       <title>Nvidia</title>
-      <link>http://localhost:1313/tags/nvidia/</link>
+      <link>https://zhang-jiaming.com/tags/nvidia/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nvidia/</guid>
+      <guid>https://zhang-jiaming.com/tags/nvidia/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>http://localhost:1313/tags/ubuntu/</link>
+      <link>https://zhang-jiaming.com/tags/ubuntu/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ubuntu/</guid>
+      <guid>https://zhang-jiaming.com/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://zhang-jiaming.com/tags/css/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://zhang-jiaming.com/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://zhang-jiaming.com/tags/github/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://zhang-jiaming.com/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>https://zhang-jiaming.com/tags/go/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>https://zhang-jiaming.com/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://zhang-jiaming.com/tags/html/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://zhang-jiaming.com/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://zhang-jiaming.com/tags/hugo/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://zhang-jiaming.com/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
+      <link>https://zhang-jiaming.com/tags/javascript/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/javascript/</guid>
+      <guid>https://zhang-jiaming.com/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://zhang-jiaming.com/tags/markdown/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://zhang-jiaming.com/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/tags/website/</link>
+      <link>https://zhang-jiaming.com/tags/website/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/website/</guid>
+      <guid>https://zhang-jiaming.com/tags/website/</guid>
       <description></description>
     </item>
   </channel>

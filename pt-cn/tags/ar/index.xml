@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AR on 张嘉铭</title>
-    <link>http://localhost:1313/pt-cn/tags/ar/</link>
+    <link>https://zhang-jiaming.com/pt-cn/tags/ar/</link>
     <description>Recent content in AR on 张嘉铭</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-cn/tags/ar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhang-jiaming.com/pt-cn/tags/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale</title>
-      <link>http://localhost:1313/pt-cn/posts/dart-vinci/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/dart-vinci/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/dart-vinci/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;video autoplay loop style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/images/dart-vinci.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&lt;/p&gt;</description>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/dart-vinci/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;video autoplay loop style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&#xA;    &lt;source src=&#34;https://zhang-jiaming.com/images/dart-vinci.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PoseHub: Surgical Tool Tracking with AR Headset</title>
-      <link>http://localhost:1313/pt-cn/posts/ar-track/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/ar-track/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/ar-track/</guid>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/ar-track/</guid>
       <description>&lt;h2 id=&#34;posehub-surgical-tool-tracking-with-ar-headset&#34;&gt;&#xA;  PoseHub: Surgical Tool Tracking with AR Headset&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#posehub-surgical-tool-tracking-with-ar-headset&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;We are developing a surgical tool tracking system that can be used with augmented reality headsets. The system is designed to provide real-time feedback to the surgeon about the location of the surgical tool. The system has a scene-graph structure that allows for easy integration with different tracking devices and visualization tools. A synthetic dataset is generated in ROS to test the system. The code is available &lt;a href=&#34;https://github.com/jmz3/PoseHub.git&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DVRK on 张嘉铭</title>
-    <link>http://localhost:1313/pt-cn/tags/dvrk/</link>
+    <link>https://zhang-jiaming.com/pt-cn/tags/dvrk/</link>
     <description>Recent content in DVRK on 张嘉铭</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-cn/tags/dvrk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhang-jiaming.com/pt-cn/tags/dvrk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenIRIS: Eye Tracking Software for Vestibular and Oculomotor Research</title>
-      <link>http://localhost:1313/pt-cn/posts/openiris/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/openiris/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/openiris/</guid>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/openiris/</guid>
       <description>&lt;p&gt;I contributed to the development of &lt;a href=&#34;https://github.com/jmz3/OpenIris&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenIRIS&lt;/a&gt;. OpenIris is an adaptable, open-source framework for video-based eye-tracking, developed in C# with a modular design for plugin extension. It supports online and offline recording, binocular pupil tracking, and 3-D eye motion capture.&lt;/p&gt;&#xA;&lt;p&gt;To be more specific, I added support for USB version of Flir Blackfly cameras, and implemented a online calibration module to calculate the head pose from gravitational vector recorded by an IMU.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ROS Driver for Fantronic Endoscopic Camera</title>
-      <link>http://localhost:1313/pt-cn/posts/endoscope/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/endoscope/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/endoscope/</guid>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/endoscope/</guid>
       <description>&lt;p&gt;ROS1 image acquisition node for Fantronic/Geek Szitman endoscope camera. Supports USB connection. The camera can be purchased from Amazon from this &lt;a href=&#34;https://www.amazon.com/Inspection-Fantronics-Waterproof-Borescope-Adjustable/dp/B071HYRPND/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zV1nqWnHEaSPdDiEHPP-RR0QeNAKRdKZrFqpH4skcsN3PcgYNpxxTd6n7FiPC8P5tZGjM3trSpj6Kf3AFw_GKZEuedP192EytwbsxPGmPA1LpuSVsZsCBGXyOL7zAXDaDGNGVcRh8U20rhtUt3EaU_U28Zv6Vmek0d28AWBRLqsjTfgybdPsb2lMmwTV2snLAotug0pMbluLOvZuIaJqgaEi97xg6jiTay9z4I9uhnA.GCo8pb43OOxapIJryI-bXsVdCcCdcgvRvehpc-ynycg&amp;amp;dib_tag=se&amp;amp;hvadid=651109964328&amp;amp;hvdev=c&amp;amp;hvexpln=0&amp;amp;hvlocphy=9007900&amp;amp;hvnetw=g&amp;amp;hvocijid=14768633232462871144--&amp;amp;hvqmt=e&amp;amp;hvrand=14768633232462871144&amp;amp;hvtargid=kwd-262769191435&amp;amp;hydadcr=977_1015116299&amp;amp;keywords=fantronics&amp;#43;endoscope&amp;amp;mcid=47abe76b718d31c78381e745b67076b3&amp;amp;qid=1763698904&amp;amp;sr=8-1&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;With this ROS driver, you can easily use the endoscopic camera as wrist camera for da Vinci robot, who does not have native wrist camera support.&lt;/p&gt;</description>
     </item>
   </channel>

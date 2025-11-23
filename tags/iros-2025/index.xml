@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IROS 2025 on Jiaming Zhang</title>
-    <link>http://localhost:1313/tags/iros-2025/</link>
+    <link>https://zhang-jiaming.com/tags/iros-2025/</link>
     <description>Recent content in IROS 2025 on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/iros-2025/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhang-jiaming.com/tags/iros-2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale</title>
-      <link>http://localhost:1313/posts/dart-vinci/</link>
+      <link>https://zhang-jiaming.com/posts/dart-vinci/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dart-vinci/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;video autoplay loop style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/images/dart-vinci.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&lt;/p&gt;</description>
+      <guid>https://zhang-jiaming.com/posts/dart-vinci/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;video autoplay loop style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&#xA;    &lt;source src=&#34;https://zhang-jiaming.com/images/dart-vinci.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&lt;/p&gt;</description>
     </item>
     <item>
       <title>dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale</title>
-      <link>http://localhost:1313/pt-cn/posts/dart-vinci/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/dart-vinci/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/dart-vinci/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;video autoplay loop style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/images/dart-vinci.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&lt;/p&gt;</description>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/dart-vinci/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;video autoplay loop style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&#xA;    &lt;source src=&#34;https://zhang-jiaming.com/images/dart-vinci.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Data scarcity has long been an issue in the robot learning community. Particularly, in safety-critical domains like surgical applications, obtaining high-quality data can be especially difficult. It poses challenges to researchers seeking to exploit recent advancements in reinforcement learning and imitation learning, which have greatly improved generalizability and enabled robots to conduct tasks autonomously.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TMS on 张嘉铭</title>
-    <link>http://localhost:1313/pt-cn/tags/tms/</link>
+    <link>https://zhang-jiaming.com/pt-cn/tags/tms/</link>
     <description>Recent content in TMS on 张嘉铭</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-cn/tags/tms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhang-jiaming.com/pt-cn/tags/tms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robotic Transcranial Magnetic Stimulation</title>
-      <link>http://localhost:1313/pt-cn/posts/rotms/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/rotms/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/rotms/</guid>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/rotms/</guid>
       <description>&lt;p&gt;With our advanced robotic system, surgeons can easily and accurately deliver non-invasive stimulations to the cortical area of the brain. The system is designed to be easy to use and can be operated by a single person. The system is currently being tested in a clinical trial at the Johns Hopkins Hospital.&lt;/p&gt;</description>
     </item>
   </channel>

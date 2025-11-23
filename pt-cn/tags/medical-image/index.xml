@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medical Image on 张嘉铭</title>
-    <link>http://localhost:1313/pt-cn/tags/medical-image/</link>
+    <link>https://zhang-jiaming.com/pt-cn/tags/medical-image/</link>
     <description>Recent content in Medical Image on 张嘉铭</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-cn/tags/medical-image/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhang-jiaming.com/pt-cn/tags/medical-image/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SAMME: Segment Any Medical Model Extended</title>
-      <link>http://localhost:1313/pt-cn/posts/sam/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/sam/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/sam/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/samme.png&#34; alt=&#34;SAMM overview&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m excited to announce that our project &lt;a href=&#34;https://github.com/bingogome/samm&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAMM&lt;/a&gt; has received many attentions from all over the world! Please reach out if you want to collaborate. SAMM allows users to directly leverage the powerful Segment Anything Model (SAM) to segment medical images (including CT, MR, Ultrasound, and more) in 3D Slicer.&lt;/p&gt;</description>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/sam/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://zhang-jiaming.com/images/samme.png&#34; alt=&#34;SAMM overview&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m excited to announce that our project &lt;a href=&#34;https://github.com/bingogome/samm&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAMM&lt;/a&gt; has received many attentions from all over the world! Please reach out if you want to collaborate. SAMM allows users to directly leverage the powerful Segment Anything Model (SAM) to segment medical images (including CT, MR, Ultrasound, and more) in 3D Slicer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>XREGI: Learning-based 2D/3D Fluoroscopic Image Registration</title>
-      <link>http://localhost:1313/pt-cn/posts/xregi/</link>
+      <link>https://zhang-jiaming.com/pt-cn/posts/xregi/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-cn/posts/xregi/</guid>
+      <guid>https://zhang-jiaming.com/pt-cn/posts/xregi/</guid>
       <description>&lt;h2 id=&#34;learning-based-2d3d-fluoroscopic-image-registration&#34;&gt;&#xA;  Learning-based 2D/3D Fluoroscopic Image Registration&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#learning-based-2d3d-fluoroscopic-image-registration&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;We developed and maintained an open-source python package &lt;a href=&#34;https://github.com/jeremyzz830/xregi/tree/master&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xregi&lt;/a&gt; that is used to compute the projection matrix between 2D x-ray images and 3D CT scans. This process is also called as 2D/3D fluoroscopic image registration problem. The package is now available on Pypi. Install the pacakge through &lt;code&gt;pip install xregi&lt;/code&gt; to try out!&lt;/p&gt;</description>
     </item>
   </channel>
