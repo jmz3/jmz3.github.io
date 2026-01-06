@@ -470,19 +470,6 @@
                 href="https://zhang-jiaming.com/pt-cn/publications/"
                 />
   </url><url>
-    <loc>https://zhang-jiaming.com/pt-cn/about/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/about/"
-                />
-  </url><url>
     <loc>https://zhang-jiaming.com/pt-cn/tags/css/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -598,6 +585,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://zhang-jiaming.com/pt-cn/contact/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/pt-cn/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/about/"
                 />
   </url><url>
     <loc>https://zhang-jiaming.com/pt-cn/authors/</loc>

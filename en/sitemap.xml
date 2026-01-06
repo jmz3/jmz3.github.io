@@ -525,9 +525,6 @@
                 href="https://zhang-jiaming.com/about/"
                 />
   </url><url>
-    <loc>https://zhang-jiaming.com/pt-cn/about/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhang-jiaming.com/tags/css/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -647,6 +644,8 @@
   </url><url>
     <loc>https://zhang-jiaming.com/pt-cn/contact/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-jiaming.com/pt-cn/about/</loc>
   </url><url>
     <loc>https://zhang-jiaming.com/authors/</loc>
     <xhtml:link
