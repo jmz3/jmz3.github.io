@@ -6,8 +6,15 @@
     <description>Recent content in Tracking on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhang-jiaming.com/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality</title>
+      <link>https://zhang-jiaming.com/posts/extend_your_horizon/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhang-jiaming.com/posts/extend_your_horizon/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Robust Realtime Shape Estimation of Deformable Linear Object</title>
       <link>https://zhang-jiaming.com/posts/deform/</link>

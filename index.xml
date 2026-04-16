@@ -6,8 +6,15 @@
     <description>Recent content on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhang-jiaming.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality</title>
+      <link>https://zhang-jiaming.com/posts/extend_your_horizon/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhang-jiaming.com/posts/extend_your_horizon/</guid>
+      <description></description>
+    </item>
     <item>
       <title>OpenIRIS: Eye Tracking Software for Vestibular and Oculomotor Research</title>
       <link>https://zhang-jiaming.com/posts/openiris/</link>
@@ -174,7 +181,7 @@
       <link>https://zhang-jiaming.com/publications/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://zhang-jiaming.com/publications/</guid>
-      <description>&lt;div class=&#34;publications-page&#34;&gt;&#xA;&lt;p&gt;Please follow this &lt;a href=&#34;https://scholar.google.com/citations?user=1m3l9W4AAAAJ&amp;amp;hl=en&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to my Google Scholar page for a full, up-to-date list of works.&lt;/p&gt;&#xA;&lt;h3 id=&#34;journal-articles&#34;&gt;&#xA;  Journal Articles&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#journal-articles&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;An Image-Guided Robotic System for Transcranial Magnetic Stimulation: System Development and Experimental Evaluation&lt;/strong&gt;&lt;br /&gt;&#xA;Yihao Liu, &lt;u&gt;Jiaming Zhang&lt;/u&gt;, Letian Ai, Jing Tian, Shahriar Sefati, Huan Liu, Alejandro Martin-Gomez, Amir Kheradmand, Mehran Armand&lt;br /&gt;&#xA;&lt;em&gt;IEEE Robotics and Automation Letters (RA-L), 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;conference-papers&#34;&gt;&#xA;  Conference Papers&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#conference-papers&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale&lt;/strong&gt;&lt;br /&gt;&#xA;Yihao Liu, Yu-Chun Ku, &lt;u&gt;Jiaming Zhang&lt;/u&gt;, Hao Ding, Peter Kazanzides, Mehran Armand&#xA;&lt;em&gt;IEEEInternational Conference on Intelligent Robots and Systems (IROS), 2025&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;publications-page&#34;&gt;&#xA;&lt;p&gt;Please follow this &lt;a href=&#34;https://scholar.google.com/citations?user=1m3l9W4AAAAJ&amp;amp;hl=en&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to my Google Scholar page for a full, up-to-date list of works.&lt;/p&gt;&#xA;&lt;h3 id=&#34;journal-articles&#34;&gt;&#xA;  Journal Articles&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#journal-articles&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;An Image-Guided Robotic System for Transcranial Magnetic Stimulation: System Development and Experimental Evaluation&lt;/strong&gt;&lt;br /&gt;&#xA;Yihao Liu, &lt;u&gt;Jiaming Zhang&lt;/u&gt;, Letian Ai, Jing Tian, Shahriar Sefati, Huan Liu, Alejandro Martin-Gomez, Amir Kheradmand, Mehran Armand&lt;br /&gt;&#xA;&lt;em&gt;IEEE Robotics and Automation Letters (RA-L), 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;conference-papers&#34;&gt;&#xA;  Conference Papers&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#conference-papers&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality&lt;/strong&gt;&lt;br /&gt;&#xA;Jiaming Zhang, Mingxu Liu, Hongchao Shu, Ruixing Liang, Yihao Liu, Ojas Taskar, Amir Kheradmand, Mehran Armand, Alejandro Martin-Gomez&#xA;&lt;em&gt;IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2025&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bio</title>
@@ -188,7 +195,7 @@
       <link>https://zhang-jiaming.com/contact/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://zhang-jiaming.com/contact/</guid>
-      <description>&lt;!-- https://www.altbrot.at/2022/08/make-your-hugo-theme-use-google-fonts-locally/ --&gt;&#xA;&lt;p&gt;&amp;#x1f4e7;&#xA;&lt;br&gt;&lt;a href=&#34;mailto:jeremyz.daily@gmail.com&#34; &gt;jeremyz.daily@gmail.com&lt;/a&gt;&#xA;&lt;br&gt;&lt;a href=&#34;mailto:jzhan282@jhu.edu&#34; &gt;jzhan282@jhu.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x260e;&amp;#xfe0f;&#xA;&lt;br&gt;+1 443 447 6698&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f4eb;&#xA;&lt;br&gt;2824 Damascus Ct&#xA;&lt;br&gt;21209, Baltimore, MD&#xA;&lt;br&gt;USA&lt;/p&gt;</description>
+      <description>&lt;!-- https://www.altbrot.at/2022/08/make-your-hugo-theme-use-google-fonts-locally/ --&gt;&#xA;&lt;p&gt;&amp;#x1f4e7;&#xA;&lt;br&gt;jzhan282 [at] jhu [dot] edu&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f4eb;&#xA;&lt;br&gt;2824 Damascus Ct&#xA;&lt;br&gt;21209, Baltimore, MD&#xA;&lt;br&gt;USA&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>

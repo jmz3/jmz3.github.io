@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhang-jiaming.com/posts/extend_your_horizon/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhang-jiaming.com/posts/openiris/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -178,8 +181,21 @@
     <loc>https://zhang-jiaming.com/pt-cn/posts/multilingual-mode/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://zhang-jiaming.com/tags/ar/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/tags/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/tags/ar/"
+                />
+  </url><url>
     <loc>https://zhang-jiaming.com/categories/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -189,6 +205,84 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zhang-jiaming.com/categories/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/categories/paper/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/categories/paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/categories/paper/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/posts/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/posts/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/tags/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/tags/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/categories/technical/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/categories/technical/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/categories/technical/"
+                />
+  </url><url>
+    <loc>https://zhang-jiaming.com/tags/tracking/</loc>
+    <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhang-jiaming.com/pt-cn/tags/tracking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhang-jiaming.com/tags/tracking/"
                 />
   </url><url>
     <loc>https://zhang-jiaming.com/tags/dvrk/</loc>
@@ -230,19 +324,6 @@
                 href="https://zhang-jiaming.com/categories/guide/"
                 />
   </url><url>
-    <loc>https://zhang-jiaming.com/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/"
-                />
-  </url><url>
     <loc>https://zhang-jiaming.com/pt-cn/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -259,60 +340,8 @@
                 href="https://zhang-jiaming.com/tags/ros/"
                 />
   </url><url>
-    <loc>https://zhang-jiaming.com/posts/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/posts/"
-                />
-  </url><url>
     <loc>https://zhang-jiaming.com/pt-cn/posts/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhang-jiaming.com/tags/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/tags/"
-                />
-  </url><url>
-    <loc>https://zhang-jiaming.com/categories/technical/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/categories/technical/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/categories/technical/"
-                />
-  </url><url>
-    <loc>https://zhang-jiaming.com/tags/ar/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/tags/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/tags/ar/"
-                />
   </url><url>
     <loc>https://zhang-jiaming.com/tags/da-vinci/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
@@ -338,19 +367,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zhang-jiaming.com/tags/iros-2025/"
-                />
-  </url><url>
-    <loc>https://zhang-jiaming.com/categories/paper/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/categories/paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/categories/paper/"
                 />
   </url><url>
     <loc>https://zhang-jiaming.com/tags/robot-learning/</loc>
@@ -416,19 +432,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zhang-jiaming.com/tags/icra-2024/"
-                />
-  </url><url>
-    <loc>https://zhang-jiaming.com/tags/tracking/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhang-jiaming.com/pt-cn/tags/tracking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhang-jiaming.com/tags/tracking/"
                 />
   </url><url>
     <loc>https://zhang-jiaming.com/tags/medical-image/</loc>

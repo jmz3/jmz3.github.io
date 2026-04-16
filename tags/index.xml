@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Jiaming Zhang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhang-jiaming.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AR</title>
+      <link>https://zhang-jiaming.com/tags/ar/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhang-jiaming.com/tags/ar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tracking</title>
+      <link>https://zhang-jiaming.com/tags/tracking/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhang-jiaming.com/tags/tracking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>DVRK</title>
       <link>https://zhang-jiaming.com/tags/dvrk/</link>
@@ -27,13 +41,6 @@
       <link>https://zhang-jiaming.com/tags/ros/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://zhang-jiaming.com/tags/ros/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AR</title>
-      <link>https://zhang-jiaming.com/tags/ar/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://zhang-jiaming.com/tags/ar/</guid>
       <description></description>
     </item>
     <item>
@@ -83,13 +90,6 @@
       <link>https://zhang-jiaming.com/tags/icra-2024/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zhang-jiaming.com/tags/icra-2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tracking</title>
-      <link>https://zhang-jiaming.com/tags/tracking/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhang-jiaming.com/tags/tracking/</guid>
       <description></description>
     </item>
     <item>
